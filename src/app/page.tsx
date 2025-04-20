@@ -18,7 +18,13 @@ export default function HomePage() {
         href="/checklist"
         className="bg-white text-black font-semibold px-8 py-4 rounded-md text-lg hover:bg-gray-300 transition"
       >
-        View Checklist
+        View Checklist (Grid View) With Wallet Checker
+      </Link>
+      <Link
+        href="/characters"
+        className="bg-white text-black font-semibold px-8 py-4 rounded-md text-lg hover:bg-gray-300 transition"
+      >
+        View Checklist (Card View)
       </Link>
       <div className="mt-10 text-sm text-gray-400 text-center">
         <p>Note: Magic Eden collections may not be fully accessible at this time due to recent change in contract pages.</p>
