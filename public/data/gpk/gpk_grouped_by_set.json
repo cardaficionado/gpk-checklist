@@ -1,0 +1,974 @@
+{
+  "2022 Topps GPK Non-Flushable Tokens": {
+    "cobalt cathy": {
+      "common": {
+        "rarity": "common",
+        "contract": "0xe993386607dbb7cc3853b873c3e5f1d4d652b23f",
+        "total_minted": 120,
+        "on_chain": true
+      },
+      "uncommon": {
+        "rarity": "uncommon",
+        "contract": "0x903e81200fffdbad7315df18fa943010135c8e6c",
+        "total_minted": 75,
+        "on_chain": true
+      },
+      "rare": {
+        "rarity": "rare",
+        "contract": "0xfb77eecaeba9cb4b72a0aa7f821c73863a670b94",
+        "total_minted": 50,
+        "on_chain": true
+      },
+      "super rare": {
+        "rarity": "super rare",
+        "contract": "0xad05e58e829af675766ad5566045bdabca940e4b",
+        "total_minted": 25,
+        "on_chain": true
+      },
+      "epic": {
+        "rarity": "epic",
+        "contract": "0xc0897ff657d8a4f838ee50e8fdbf0a8f01191270",
+        "total_minted": 10,
+        "on_chain": true
+      },
+      "legendary": {
+        "rarity": "legendary",
+        "contract": "0x4cf6d022cbc3448e4eb8a66362a8af515043593a",
+        "total_minted": 5,
+        "on_chain": true
+      }
+    },
+    "ferari frank": {
+      "common": {
+        "rarity": "common",
+        "contract": "0x0b7e3a95c8a22bf611650aceb224d1994866d7c3",
+        "total_minted": 120,
+        "on_chain": true
+      },
+      "uncommon": {
+        "rarity": "uncommon",
+        "contract": "0x8505d0357098a334ab02720b2afd284f0e8950b6",
+        "total_minted": 75,
+        "on_chain": true
+      },
+      "rare": {
+        "rarity": "rare",
+        "contract": "0xc7546a3e7aa3a47eedbe311cb682940cd7cbb4aa",
+        "total_minted": 50,
+        "on_chain": true
+      },
+      "super rare": {
+        "rarity": "super rare",
+        "contract": "0xaace8ff0e8bc4f8fb7d752d505d854c8950189e3",
+        "total_minted": 25,
+        "on_chain": true
+      },
+      "epic": {
+        "rarity": "epic",
+        "contract": "0xcc90679b0a11d9259be57dcb2d6d9dfb593ae4fb",
+        "total_minted": 10,
+        "on_chain": true
+      },
+      "legendary": {
+        "rarity": "legendary",
+        "contract": "0x40801a3c48c73e53040ae085b38fca02b4c0237b",
+        "total_minted": 5,
+        "on_chain": true
+      }
+    },
+    "gemini gene": {
+      "common": {
+        "rarity": "common",
+        "contract": "0x3fd22b040f37938d73624ef0679e1cf1e46f0c36",
+        "total_minted": 120,
+        "on_chain": true
+      },
+      "uncommon": {
+        "rarity": "uncommon",
+        "contract": "0xa21d0d9bbc4f17762c3b61ac538a05cfab687035",
+        "total_minted": 75,
+        "on_chain": true
+      },
+      "rare": {
+        "rarity": "rare",
+        "contract": "0xf4b0d98ba5d370b3e34eb9a91c797696b68643e9",
+        "total_minted": 50,
+        "on_chain": true
+      },
+      "super rare": {
+        "rarity": "super rare",
+        "contract": "0x3d54ad2b3dc4826b41713a45b8fd282a7acb2d56",
+        "total_minted": 25,
+        "on_chain": true
+      },
+      "epic": {
+        "rarity": "epic",
+        "contract": "0x69069cda6ed24445fa2e0d1b2f18a676ee9706cd",
+        "total_minted": 10,
+        "on_chain": true
+      },
+      "legendary": {
+        "rarity": "legendary",
+        "contract": "0xe87c34a0a30e4b5a435d4c12e57da9005161a197",
+        "total_minted": 5,
+        "on_chain": true
+      }
+    },
+    "luna-tic": {
+      "common": {
+        "rarity": "common",
+        "contract": "0xad8b3edc08d8b3341dc92a8cb15ee68dcea80987",
+        "total_minted": 120,
+        "on_chain": true
+      },
+      "uncommon": {
+        "rarity": "uncommon",
+        "contract": "0xc0594914bd5d7741fee32ae922479c0812358897",
+        "total_minted": 75,
+        "on_chain": true
+      },
+      "rare": {
+        "rarity": "rare",
+        "contract": "0x8c3273241964d2e6fb173a4527ab93fde6b875dc",
+        "total_minted": 50,
+        "on_chain": true
+      },
+      "super rare": {
+        "rarity": "super rare",
+        "contract": "0xa3216399444ce87e7c61c5a9d607a3171c1df751",
+        "total_minted": 25,
+        "on_chain": true
+      },
+      "epic": {
+        "rarity": "epic",
+        "contract": "0xbfcd8f8ff22005cd2481b77ef45a3833e601e040",
+        "total_minted": 10,
+        "on_chain": true
+      },
+      "legendary": {
+        "rarity": "legendary",
+        "contract": "0xe289071fbf5af948ac5f4226b4450645cc2733df",
+        "total_minted": 5,
+        "on_chain": true
+      }
+    },
+    "airdrop angel": {
+      "common": {
+        "rarity": "common",
+        "contract": "0x12523869026f354d6d2b92e386b70c2ebbd14744",
+        "total_minted": 120,
+        "on_chain": true
+      },
+      "uncommon": {
+        "rarity": "uncommon",
+        "contract": "0xfa350eb6c37839d55a853e4ffe2553e90e454c8c",
+        "total_minted": 75,
+        "on_chain": true
+      },
+      "rare": {
+        "rarity": "rare",
+        "contract": "0x50d35a9645c0ce57abfc3875d55a6ef5912357ff",
+        "total_minted": 50,
+        "on_chain": true
+      },
+      "super rare": {
+        "rarity": "super rare",
+        "contract": "0x4dbda803b422f2f69bb1ae720c1be83d5dfa6679",
+        "total_minted": 25,
+        "on_chain": true
+      },
+      "epic": {
+        "rarity": "epic",
+        "contract": "0xb512407a6802c0211a15a144607604ad78997042",
+        "total_minted": 10,
+        "on_chain": true
+      },
+      "legendary": {
+        "rarity": "legendary",
+        "contract": "0x7b2a5722a1c12f96a88838e86c6d1d184dbc8998",
+        "total_minted": 5,
+        "on_chain": true
+      }
+    },
+    "maya mask": {
+      "common": {
+        "rarity": "common",
+        "contract": "0x68f003c0c40ca03514018c2b18a90384e9eeeb5f",
+        "total_minted": 120,
+        "on_chain": true
+      },
+      "uncommon": {
+        "rarity": "uncommon",
+        "contract": "0xab8a7f03b1356db75787556628e78dcabb2fa478",
+        "total_minted": 75,
+        "on_chain": true
+      },
+      "rare": {
+        "rarity": "rare",
+        "contract": "0x42bea80daac2918477d1865378d09d2224c72ded",
+        "total_minted": 50,
+        "on_chain": true
+      },
+      "super rare": {
+        "rarity": "super rare",
+        "contract": "0x30ada7fba9fb273ecc6e3a7896b1156e835c7d1f",
+        "total_minted": 25,
+        "on_chain": true
+      },
+      "epic": {
+        "rarity": "epic",
+        "contract": "0x80042a5f8f92042856e976afc208180e7eaf9edd",
+        "total_minted": 10,
+        "on_chain": true
+      },
+      "legendary": {
+        "rarity": "legendary",
+        "contract": "0xf421538d540e97481c26d113df77142beea922d1",
+        "total_minted": 5,
+        "on_chain": true
+      }
+    },
+    "bridget troll": {
+      "common": {
+        "rarity": "common",
+        "contract": "0x70d9f87f7fdaa874eea1ac1d1b4de08de90ae002",
+        "total_minted": 120,
+        "on_chain": true
+      },
+      "uncommon": {
+        "rarity": "uncommon",
+        "contract": "0xbf65ca5263bb1b2cc531c398effdde11996e8afd",
+        "total_minted": 75,
+        "on_chain": true
+      },
+      "rare": {
+        "rarity": "rare",
+        "contract": "0xad957ea23f67c0e1fbaa99d2768e27d82a86fbf7",
+        "total_minted": 50,
+        "on_chain": true
+      },
+      "super rare": {
+        "rarity": "super rare",
+        "contract": "0x8624212339f38f0106587ced6d4343fb7e8f4d0b",
+        "total_minted": 25,
+        "on_chain": true
+      },
+      "epic": {
+        "rarity": "epic",
+        "contract": "0xe22530d0c81a68afdb6af03ff5296faffb669b9d",
+        "total_minted": 10,
+        "on_chain": true
+      },
+      "legendary": {
+        "rarity": "legendary",
+        "contract": "0xd1669ae92464de37b37ce48b761de81b39be2d50",
+        "total_minted": 5,
+        "on_chain": true
+      }
+    },
+    "hodor the hodler": {
+      "common": {
+        "rarity": "common",
+        "contract": "0x6a59f25d6bc8ada7a20534048c2846864fb0223a",
+        "total_minted": 120,
+        "on_chain": true
+      },
+      "uncommon": {
+        "rarity": "uncommon",
+        "contract": "0xa5b3bba52e1e1fdb2e0f23d972cfe292a29f78eb",
+        "total_minted": 75,
+        "on_chain": true
+      },
+      "rare": {
+        "rarity": "rare",
+        "contract": "0xd5b76b9e7ea0d7e969dd6c517e6e9f6baa736d6f",
+        "total_minted": 50,
+        "on_chain": true
+      },
+      "super rare": {
+        "rarity": "super rare",
+        "contract": "0x80c82d4dc7f449ba7ca8ec152896569cdfd1c0a7",
+        "total_minted": 25,
+        "on_chain": true
+      },
+      "epic": {
+        "rarity": "epic",
+        "contract": "0x6027e2d2b48d7579448df057fbbcd9632ece3931",
+        "total_minted": 10,
+        "on_chain": true
+      },
+      "legendary": {
+        "rarity": "legendary",
+        "contract": "0x36b22dc41531078cf6ecd7ffa8c7ba1a8c3b8908",
+        "total_minted": 5,
+        "on_chain": true
+      }
+    },
+    "paper hans": {
+      "common": {
+        "rarity": "common",
+        "contract": "0x4c339a855777561632921e188c5d7e16aeda56ad",
+        "total_minted": 120,
+        "on_chain": true
+      },
+      "uncommon": {
+        "rarity": "uncommon",
+        "contract": "0xe7d9dce53d52dd9d198d9d46c0e26d9c1938302e",
+        "total_minted": 75,
+        "on_chain": true
+      },
+      "rare": {
+        "rarity": "rare",
+        "contract": "0x53eb6f6df6dc66d26997a122fd5108cbef99785d",
+        "total_minted": 50,
+        "on_chain": true
+      },
+      "super rare": {
+        "rarity": "super rare",
+        "contract": "0xef2eb0628df206b1682d30d79902ca595dbb5fa1",
+        "total_minted": 25,
+        "on_chain": true
+      },
+      "epic": {
+        "rarity": "epic",
+        "contract": "0xe63bafb9526b11a1a64a9990e7a43a88490c177d",
+        "total_minted": 10,
+        "on_chain": true
+      },
+      "legendary": {
+        "rarity": "legendary",
+        "contract": "0x125693188ea0536bb73fb06bdac1dc1015ed49c3",
+        "total_minted": 5,
+        "on_chain": true
+      }
+    },
+    "diamond hans": {
+      "common": {
+        "rarity": "common",
+        "contract": "0x757e80ac4aa2ba47d5bdfdbee04c93b5dba8bfcf",
+        "total_minted": 120,
+        "on_chain": true
+      },
+      "uncommon": {
+        "rarity": "uncommon",
+        "contract": "0x43ed266859d417ea59ca01a1aeb0e3abc0e58609",
+        "total_minted": 75,
+        "on_chain": true
+      },
+      "rare": {
+        "rarity": "rare",
+        "contract": "0x7ead6f59d5ee974689bf0c836b284ea165788c63",
+        "total_minted": 50,
+        "on_chain": true
+      },
+      "super rare": {
+        "rarity": "super rare",
+        "contract": "0x96bc579555720b1d2454e66a1c2ccbca188e0b71",
+        "total_minted": 25,
+        "on_chain": true
+      },
+      "epic": {
+        "rarity": "epic",
+        "contract": "0x17d2c7ae8c66e58fab185ba8b59895d1381f2781",
+        "total_minted": 10,
+        "on_chain": true
+      },
+      "legendary": {
+        "rarity": "legendary",
+        "contract": "0xd3f201cd996085928e79ed9bff7220454b383429",
+        "total_minted": 5,
+        "on_chain": true
+      }
+    },
+    "proof-of- steak": {
+      "common": {
+        "rarity": "common",
+        "contract": "0x53d8cb8690c79a7c5b087b6ad4a3c1a06810dc11",
+        "total_minted": 120,
+        "on_chain": true
+      },
+      "uncommon": {
+        "rarity": "uncommon",
+        "contract": "0x4b9c6f62fabd6feb29b93d1ce061d0fb526ad01b",
+        "total_minted": 75,
+        "on_chain": true
+      },
+      "rare": {
+        "rarity": "rare",
+        "contract": "0x6cb44aed59bbaafb65620a4c9870feb72aad07d5",
+        "total_minted": 50,
+        "on_chain": true
+      },
+      "super rare": {
+        "rarity": "super rare",
+        "contract": "0x4f947c7059c542673bfe428d9b00cfb44105d33a",
+        "total_minted": 25,
+        "on_chain": true
+      },
+      "epic": {
+        "rarity": "epic",
+        "contract": "0xe033965ec8babce40ff25d55c192c427e9533749",
+        "total_minted": 10,
+        "on_chain": true
+      },
+      "legendary": {
+        "rarity": "legendary",
+        "contract": "0xc96dcffc4797f595d65a6d4cffb5a63afbabde53",
+        "total_minted": 5,
+        "on_chain": true
+      }
+    },
+    "crystal winter": {
+      "common": {
+        "rarity": "common",
+        "contract": "0x568076d558b5c64a7a3b75c1ac3d1006c15e7c22",
+        "total_minted": 120,
+        "on_chain": true
+      },
+      "uncommon": {
+        "rarity": "uncommon",
+        "contract": "0xb020a2a8c93a7044466f29bb820bbc445a6baa96",
+        "total_minted": 75,
+        "on_chain": true
+      },
+      "rare": {
+        "rarity": "rare",
+        "contract": "0x32d961a6e1742630c2089b204c4a813d3d05d583",
+        "total_minted": 50,
+        "on_chain": true
+      },
+      "super rare": {
+        "rarity": "super rare",
+        "contract": "0x7eb9a45ce649c02c843bac9c84dcc0b9661734be",
+        "total_minted": 25,
+        "on_chain": true
+      },
+      "epic": {
+        "rarity": "epic",
+        "contract": "0x4f54dca4bdeb7e5ca105655101c80fdeb732aaa2",
+        "total_minted": 10,
+        "on_chain": true
+      },
+      "legendary": {
+        "rarity": "legendary",
+        "contract": "0x0973170755c61db272fb836a44dbc940c5b1cc12",
+        "total_minted": 5,
+        "on_chain": true
+      }
+    },
+    "sproutcoin spring": {
+      "common": {
+        "rarity": "common",
+        "contract": "0xb218d371b0bdf9cd633462924e86c77cab5c1622",
+        "total_minted": 120,
+        "on_chain": true
+      },
+      "uncommon": {
+        "rarity": "uncommon",
+        "contract": "0x70d038489d6317b4b028103ba449c5afc0c61873",
+        "total_minted": 75,
+        "on_chain": true
+      },
+      "rare": {
+        "rarity": "rare",
+        "contract": "0x516b40f57227c30deda008a7ae41ccc529f680b6",
+        "total_minted": 50,
+        "on_chain": true
+      },
+      "super rare": {
+        "rarity": "super rare",
+        "contract": "0xf0fc35818063daa7ac44f01aa55c277e5b787964",
+        "total_minted": 25,
+        "on_chain": true
+      },
+      "epic": {
+        "rarity": "epic",
+        "contract": "0xdba1b179fcc7fa4192c1d5c37434718256a27b20",
+        "total_minted": 10,
+        "on_chain": true
+      },
+      "legendary": {
+        "rarity": "legendary",
+        "contract": "0xe2dbd8aaf213e8f111a82888b965b3f77cce3cc8",
+        "total_minted": 5,
+        "on_chain": true
+      }
+    },
+    "hot coin summer": {
+      "common": {
+        "rarity": "common",
+        "contract": "0x78b1281fc6a6c6cc192407aa71abf9afa6deaf3c",
+        "total_minted": 120,
+        "on_chain": true
+      },
+      "uncommon": {
+        "rarity": "uncommon",
+        "contract": "0x70e00a0603fb693d504d82c1c1ea2c3d789add4b",
+        "total_minted": 75,
+        "on_chain": true
+      },
+      "rare": {
+        "rarity": "rare",
+        "contract": "0xfc48893fc23ebea475c323bfd8f86e65c88c7f00",
+        "total_minted": 50,
+        "on_chain": true
+      },
+      "super rare": {
+        "rarity": "super rare",
+        "contract": "0xb3a460ac194f8413a43b56efb6e1fdc6fae97922",
+        "total_minted": 25,
+        "on_chain": true
+      },
+      "epic": {
+        "rarity": "epic",
+        "contract": "0xa5839788a50a0300ba9ac3d4ed3a4fa0230cf19c",
+        "total_minted": 10,
+        "on_chain": true
+      },
+      "legendary": {
+        "rarity": "legendary",
+        "contract": "0xf419b4849712055e955e089dccb7b3d8f46c56da",
+        "total_minted": 5,
+        "on_chain": true
+      }
+    },
+  "crypto pukes": {
+    "common": {
+      "rarity": "common",
+      "contract": "0xe2118c23c5a3326a6312bc3dbeda553566888d2f",
+      "total_minted": 120,
+      "on_chain": true
+    },
+    "uncommon": {
+      "rarity": "uncommon",
+      "contract": "0xb64eca1ea05dcb2557a31a2f82e11b7b176497c1",
+      "total_minted": 75,
+      "on_chain": true
+    },
+    "rare": {
+      "rarity": "rare",
+      "contract": "0x339ca53fc9d6c1b91ae5c5b2464dfe7f8214e4e7",
+      "total_minted": 50,
+      "on_chain": true
+    },
+    "super rare": {
+      "rarity": "super rare",
+      "contract": "0xceb546c97762e31ee4d6ea0864b192a1034802c7",
+      "total_minted": 25,
+      "on_chain": true
+    },
+    "epic": {
+      "rarity": "epic",
+      "contract": "0x22bf016d8c91455eaef4990c9cfe7b10ae38833e",
+      "total_minted": 10,
+      "on_chain": true
+    },
+    "legendary": {
+      "rarity": "legendary",
+      "contract": "0xd4b35c801947c2dd81041ecb64ba0a45d1aaa516",
+      "total_minted": 5,
+      "on_chain": true
+    }
+  },
+    "faith fall": {
+      "common": {
+        "rarity": "common",
+        "contract": "0x071394f3c85845132e2041af6e71251ce52bb929",
+        "total_minted": 120,
+        "on_chain": true
+      },
+      "uncommon": {
+        "rarity": "uncommon",
+        "contract": "0x913cc1d868ae02b5c858ecc18941c5f35c6c437d",
+        "total_minted": 75,
+        "on_chain": true
+      },
+      "rare": {
+        "rarity": "rare",
+        "contract": "0x30cbe941279a3f2576bb02364fd847a748d9fe45",
+        "total_minted": 50,
+        "on_chain": true
+      },
+      "super rare": {
+        "rarity": "super rare",
+        "contract": "0x65d325d3e4d7ec9e92388b8fe9fe597c861727ab",
+        "total_minted": 25,
+        "on_chain": true
+      },
+      "epic": {
+        "rarity": "epic",
+        "contract": "0x4b7110ee38c2ab066057fe819c8d5e45753cbe1e",
+        "total_minted": 10,
+        "on_chain": true
+      },
+      "legendary": {
+        "rarity": "legendary",
+        "contract": "0x97ac159e6e599f44f4c4fee2dcba580accebff1b",
+        "total_minted": 5,
+        "on_chain": true
+      }
+    }
+  },
+  "2022 Topps GPK Non-Flushable Tokens Challenge Rewards": {
+    "cobalt cathy": {
+      "uncommon": {
+        "rarity": "uncommon",
+        "contract": "0xed313cef732d00879ac483914ee28f08a9928370",
+        "total_minted": 75,
+        "on_chain": true
+      },
+      "super rare": {
+        "rarity": "super rare",
+        "contract": "0x0c21c22fe01603acf51d24992c48620233ee5a27",
+        "total_minted": 25,
+        "on_chain": true
+      },
+      "legendary": {
+        "rarity": "legendary",
+        "contract": "0x1de6799c166497d5eb1bf410b3557bc13c148904",
+        "total_minted": 5,
+        "on_chain": true
+      }
+    },
+    "ferari frank": {
+      "uncommon": {
+        "rarity": "uncommon",
+        "contract": "0x908f1b952fc7e75e2313e33283b624045ee42f01",
+        "total_minted": 75,
+        "on_chain": true
+      },
+      "super rare": {
+        "rarity": "super rare",
+        "contract": "0x16c42ceb376785d50bc4779a8f26a863e8e594a9",
+        "total_minted": 25,
+        "on_chain": true
+      },
+      "legendary": {
+        "rarity": "legendary",
+        "contract": "0x054352492d25510c1ce03514f1d91262eed3ba13",
+        "total_minted": 5,
+        "on_chain": true
+      }
+    },
+    "gemini gene": {
+      "uncommon": {
+        "rarity": "uncommon",
+        "contract": "0xde6b75437bcce9e6feabfd8894d0b6becafcb10a",
+        "total_minted": 75,
+        "on_chain": true
+      },
+      "super rare": {
+        "rarity": "super rare",
+        "contract": "0x3d54ad2b3dc4826b41713a45b8fd282a7acb2d56",
+        "total_minted": 25,
+        "on_chain": true
+      },
+      "legendary": {
+        "rarity": "legendary",
+        "contract": "0x261c833ee504693d0095fdab618180a837cf5984",
+        "total_minted": 5,
+        "on_chain": true
+      }
+    },
+    "luna-tic": {
+      "uncommon": {
+        "rarity": "uncommon",
+        "contract": "0x15ac4227dcb2fd5c5980580f6753706943467640",
+        "total_minted": 75,
+        "on_chain": true
+      },
+      "super rare": {
+        "rarity": "super rare",
+        "contract": "0x3d393bdbc89776f7a7afbf8e8ef5d9529488c322",
+        "total_minted": 25,
+        "on_chain": true
+      },
+      "legendary": {
+        "rarity": "legendary",
+        "contract": "0xd06da7f65cac015148eada4eab93f4eadc384f06",
+        "total_minted": 5,
+        "on_chain": true
+      }
+    },
+    "airdrop angel": {
+      "uncommon": {
+        "rarity": "uncommon",
+        "contract": "0x3fdc8011c5c1941b66d5992cbae0401b9d7e39e7",
+        "total_minted": 75,
+        "on_chain": true
+      },
+      "super rare": {
+        "rarity": "super rare",
+        "contract": "0x9bc77a6592e156344f7dc72620e21c1ce1e69a70",
+        "total_minted": 25,
+        "on_chain": true
+      },
+      "legendary": {
+        "rarity": "legendary",
+        "contract": "0xe8cc41ac6ba0ff5f4cfe552b80f22308b332e2a3",
+        "total_minted": 5,
+        "on_chain": true
+      }
+    },
+    "maya mask": {
+      "uncommon": {
+        "rarity": "uncommon",
+        "contract": "0xb045759b5d3c8ec959518b798d103da6012e35bb",
+        "total_minted": 75,
+        "on_chain": true
+      },
+      "super rare": {
+        "rarity": "super rare",
+        "contract": "0xbda5a3a7e3bd097bd0a0a4354ef460f04de3b3e0",
+        "total_minted": 25,
+        "on_chain": true
+      },
+      "legendary": {
+        "rarity": "legendary",
+        "contract": "0x45479e027e3fe5dd558e39b0ad7c9ec7e0400bc1",
+        "total_minted": 5,
+        "on_chain": true
+      }
+    },
+    "bridget troll": {
+      "uncommon": {
+        "rarity": "uncommon",
+        "contract": "0x431b8af326676bd170ed280f1463eb2edbbc4c3d",
+        "total_minted": 75,
+        "on_chain": true
+      },
+      "super rare": {
+        "rarity": "super rare",
+        "contract": "0xdaa37ea007f3d1db0c3d195fa070742f18e9e21f",
+        "total_minted": 25,
+        "on_chain": true
+      },
+      "legendary": {
+        "rarity": "legendary",
+        "contract": "0xe8e505f5a0f1d69803cd94f7f96b51db5fed483f",
+        "total_minted": 5,
+        "on_chain": true
+      }
+    },
+    "hodor the hodler": {
+      "uncommon": {
+        "rarity": "uncommon",
+        "contract": "0xafa0b1c05ad0c71a5f4434c8aa725ff554181d3e",
+        "total_minted": 75,
+        "on_chain": true
+      },
+      "super rare": {
+        "rarity": "super rare",
+        "contract": "0x892f43c6a2c829c57d2a519d20f89620c39478b1",
+        "total_minted": 25,
+        "on_chain": true
+      },
+      "legendary": {
+        "rarity": "legendary",
+        "contract": "0x12285ee4aa952d343753229a8973f83742a7e8ec",
+        "total_minted": 5,
+        "on_chain": true
+      }
+    },
+    "paper hans": {
+      "uncommon": {
+        "rarity": "uncommon",
+        "contract": "0xeb6b1e9964d7fc25b4cdd5fa3740e894777c1495",
+        "total_minted": 75,
+        "on_chain": true
+      },
+      "super rare": {
+        "rarity": "super rare",
+        "contract": "0x25ee132f3059ae34a5ee05fd60260fa034ae405c",
+        "total_minted": 25,
+        "on_chain": true
+      },
+      "legendary": {
+        "rarity": "legendary",
+        "contract": "0x74fd9c7603ab7467ba39b71afd9b8ea635b20b16",
+        "total_minted": 5,
+        "on_chain": true
+      }
+    },
+    "diamond hans": {
+      "uncommon": {
+        "rarity": "uncommon",
+        "contract": "0xdc18a6dcfa68607bf110e6f709ed9b085468080e",
+        "total_minted": 75,
+        "on_chain": true
+      },
+      "super rare": {
+        "rarity": "super rare",
+        "contract": "0xfa97198856dc03529c2eb9a7d614b86716473582",
+        "total_minted": 25,
+        "on_chain": true
+      },
+      "legendary": {
+        "rarity": "legendary",
+        "contract": "0xdd97d4b91d02368fdc96ba8145fd2c0d204df433",
+        "total_minted": 5,
+        "on_chain": true
+      }
+    },
+    "crystal winter": {
+      "uncommon": {
+        "rarity": "uncommon",
+        "contract": "0x59219b74bbf41c4befef2606792bfc08f1fa4e61",
+        "total_minted": 75,
+        "on_chain": true
+      },
+      "super rare": {
+        "rarity": "super rare",
+        "contract": "0x3c418c549bd4694a70d491706b492e9d9d553ddf",
+        "total_minted": 25,
+        "on_chain": true
+      },
+      "legendary": {
+        "rarity": "legendary",
+        "contract": "0x13578746be0d0f8749043b61493a096bf3873c09",
+        "total_minted": 5,
+        "on_chain": true
+      }
+    },
+    "sproutcoin spring": {
+      "uncommon": {
+        "rarity": "uncommon",
+        "contract": "0x5f24cf4c1d3dc0de436746b405f3b76fd62a2ee6",
+        "total_minted": 75,
+        "on_chain": true
+      },
+      "super rare": {
+        "rarity": "super rare",
+        "contract": "0xcdd301ca0730f1293987dba92c298289fda6efe4",
+        "total_minted": 25,
+        "on_chain": true
+      },
+      "legendary": {
+        "rarity": "legendary",
+        "contract": "0xd6b552804a868bf87aa4a0203271cab6ef7cad72",
+        "total_minted": 5,
+        "on_chain": true
+      }
+    },
+    "hot coin summer": {
+      "uncommon": {
+        "rarity": "uncommon",
+        "contract": "0x67c44e4e13c66d404b72ac6d545e995cb9d06866",
+        "total_minted": 75,
+        "on_chain": true
+      },
+      "super rare": {
+        "rarity": "super rare",
+        "contract": "0x381909182cf487b9cbbfbdfb7b7286f7bdbc13b8",
+        "total_minted": 25,
+        "on_chain": true
+      },
+      "legendary": {
+        "rarity": "legendary",
+        "contract": "0x973b7e76f555aa2ac4b50bae28d38234864b522a",
+        "total_minted": 5,
+        "on_chain": true
+      }
+    },
+    "crypto pukes": {
+      "uncommon": {
+        "rarity": "uncommon",
+        "contract": "0xac05247c19943d45c6eb4b4f2f97e2ec1fb8e17a",
+        "total_minted": 75,
+        "on_chain": true
+      },
+      "super rare": {
+        "rarity": "super rare",
+        "contract": "0x8347cbbbb325cedfefcc363ef02cb9d03706dea0",
+        "total_minted": 25,
+        "on_chain": true
+      },
+      "legendary": {
+        "rarity": "legendary",
+        "contract": "0xd4b35c801947c2dd81041ecb64ba0a45d1aaa516",
+        "total_minted": 5,
+        "on_chain": true
+      }
+    },
+    "eye candy digital": {
+      "super rare": {
+        "rarity": "super rare",
+        "contract": "0x0b0640eb655cf1320365f5db24c2ba70a6c8198f",
+        "total_minted": 25,
+        "on_chain": true
+      }
+    },
+    "vee fiend": {
+      "super rare": {
+        "rarity": "super rare",
+        "contract": "0xe07134494994374896c94590c0dbf1cce82262dc",
+        "total_minted": 25,
+        "on_chain": true
+      }
+    },
+    "waxy william": {
+      "uncommon": {
+        "rarity": "uncommon",
+        "contract": "0xa94ff541975665eb24a39463a850c16df297c83a",
+        "total_minted": 75,
+        "on_chain": true
+      }
+    },
+    "developer dale": {
+      "uncommon": {
+        "rarity": "uncommon",
+        "contract": "0x261fae36d0bfa13c912bb9a7d0d60b32e1d24088",
+        "total_minted": 75,
+        "on_chain": true
+      },
+      "super rare": {
+        "rarity": "super rare",
+        "contract": "0x3bbde58faaf8106169bdf000f8bf8e7d5374a2b9",
+        "total_minted": 25,
+        "on_chain": true
+      },
+      "legendary": {
+        "rarity": "legendary",
+        "contract": "0x5b812af6633569f0c1d241b132e2cdd1ee64ac9a",
+        "total_minted": 5,
+        "on_chain": true
+      }
+    },
+    "burning bennie": {
+      "legendary": {
+        "rarity": "legendary",
+        "contract": "0xebce23d3348c2109c1b8b0c5da46f492c94d208b",
+        "total_minted": 5,
+        "on_chain": true
+      }
+    },
+    "bored adam": {
+      "legendary": {
+        "rarity": "legendary",
+        "contract": "0xda9432545c7681911c28dbc0955500be2456738a",
+        "total_minted": 5,
+        "on_chain": true
+      }
+    },
+    "faith fall": {
+      "uncommon": {
+        "rarity": "uncommon",
+        "contract": "0x4feb9e1be279c3771e7281442a781c1bdabafc69",
+        "total_minted": 75,
+        "on_chain": true
+      },
+      "super rare": {
+        "rarity": "super rare",
+        "contract": "0x97bea0743080dcb63ad7a349ea0e6fdb8bd76a53",
+        "total_minted": 25,
+        "on_chain": true
+      },
+      "legendary": {
+        "rarity": "legendary",
+        "contract": "0xebcf7b0b180611fc5d4399ac2bbae3c02fe40871",
+        "total_minted": 5,
+        "on_chain": true
+      }
+    }
+  }
+}
