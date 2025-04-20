@@ -20,7 +20,10 @@ export default function HomePage() {
       >
         View Checklist (Grid View) With Wallet Checker
       </Link>
-      <p></p>
+      <p>
+
+        
+      </p>
       <Link
         href="/characters"
         className="bg-white text-black font-semibold px-8 py-4 rounded-md text-lg hover:bg-gray-300 transition"
