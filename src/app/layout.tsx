@@ -2,6 +2,7 @@
 
 import "../styles/globals.css";
 import type { Metadata } from "next";
+import { Analytics } from '@vercel/analytics/react';
 
 // (Optional) If you want nice fonts later:
 // import { GeistSans } from "geist/font/sans"; // Example if using custom fonts
@@ -20,6 +21,7 @@ export default function RootLayout({
     <html lang="en">
       <body className="bg-black text-white">
         {children}
+        <Analytics />
       </body>
     </html>
   );
