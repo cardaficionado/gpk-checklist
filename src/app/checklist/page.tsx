@@ -1,7 +1,7 @@
 "use client";
 
 import { useEffect, useState } from "react";
-import { Ship, Wand2 } from "lucide-react";
+import { Ship, Wand2, Sun, Moon } from "lucide-react";
 
 export default function ChecklistPage() {
   const [sets, setSets] = useState<any>({});
@@ -12,6 +12,8 @@ export default function ChecklistPage() {
 
   const rarityOrder = ["common", "uncommon", "rare", "super rare", "epic", "legendary"];
 
+  const [theme, setTheme] = useState<"light" | "dark">("light");
+
   useEffect(() => {
     async function fetchChecklist() {
       try {
@@ -21,6 +23,11 @@ export default function ChecklistPage() {
         console.log("Loaded sets:", data);
       } catch (error) {
         console.error("Failed to load checklist data:", error);
+      }
+      const savedTheme = localStorage.getItem("theme") as "light" | "dark";
+      if (savedTheme) {
+        setTheme(savedTheme);
+        document.documentElement.classList.toggle("dark", savedTheme === "dark");
       }
     }
 
@@ -99,6 +106,13 @@ export default function ChecklistPage() {
     return csv;
   }
 
+  function toggleTheme() {
+    const newTheme = theme === "light" ? "dark" : "light";
+    setTheme(newTheme);
+    document.documentElement.classList.toggle("dark", newTheme === "dark");
+    localStorage.setItem("theme", newTheme);
+  }
+
   function handleDownload() {
     const csv = generateCSV();
     const blob = new Blob([csv], { type: "text/csv;charset=utf-8;" });
@@ -132,6 +146,22 @@ export default function ChecklistPage() {
           >
             Export CSV
           </button>
+          <button
+            onClick={toggleTheme}
+            className="bg-white text-black px-3 py-1 rounded dark:bg-gray-800 dark:text-white flex items-center gap-2"
+          >
+            {theme === "light" ? (
+              <>
+                <Moon className="h-4 w-4" />
+                
+              </>
+            ) : (
+              <>
+                <Sun className="h-4 w-4" />
+                
+              </>
+            )}
+          </button>
         </div>
       </div>
 
@@ -139,9 +169,9 @@ export default function ChecklistPage() {
         <div key={idx} className="mb-12">
           <h2 className="text-2xl font-bold mb-4">{setName}</h2>
           <div className="overflow-x-auto">
-            <table className="min-w-full table-auto border-collapse">
+            <table className="min-w-full table-auto border-collapse bg-white text-black dark:bg-gray-900 dark:text-gray-200">
               <thead>
-                <tr className="bg-gray-800">
+                <tr className="bg-gray-200 dark:bg-gray-800">
                   <th className="border px-4 py-2">Character</th>
                   {rarityOrder.map((rarity) => (
                     <th key={rarity} className="border px-4 py-2 capitalize">{rarity}</th>
@@ -154,7 +184,7 @@ export default function ChecklistPage() {
                   const characterImageUrl = characterImageObj?.image;
 
                   return (
-                    <tr key={index} className="even:bg-gray-800 hover:bg-gray-700">
+                    <tr key={index} className="border-b border-gray-300 dark:border-gray-700 hover:bg-gray-100 dark:hover:bg-gray-800">
                       <td className="border px-4 py-2 flex items-center gap-2">
                         {characterImageUrl ? (
                           <img
@@ -206,6 +236,16 @@ export default function ChecklistPage() {
           </div>
         </div>
       ))}
+      <style jsx>{`
+        @media (max-width: 768px) {
+          table {
+            font-size: 14px;
+          }
+          th, td {
+            padding: 8px 6px;
+          }
+        }
+      `}</style>
     </div>
   );
 }
