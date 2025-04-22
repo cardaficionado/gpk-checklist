@@ -5,6 +5,7 @@ import { Card, CardContent } from '@/components/ui/card'
 import { Badge } from '@/components/ui/badge'
 import { Button } from '@/components/ui/button'
 import { Ship, Wand2 } from 'lucide-react'
+import slugMap from "@/../public/data/topps/gpk/contract-to-slug.json";
 
 interface Appearance {
     set: string
@@ -88,8 +89,9 @@ export default function CharacterChecklist() {
                                 <div className="flex flex-col gap-1">
                                     {appearances.map((a, i) => {
                                         const setLabel = a.set === '2022 Topps GPK Non-Flushable Tokens Challenge Rewards' ? 'Reward' : ''
-                                        const magicEdenUrl = `https://magiceden.us/collections/polygon/${a.contract}`
-                                        const openSeaUrl = `https://opensea.io/assets/matic/${a.contract}/1`
+                                        const slug = slugMap[a.contract.toLowerCase()];
+                                        const openSeaUrl = slug ? `https://opensea.io/collection/${slug}` : null;
+                                        const magicEdenUrl = slug ? `https://magiceden.us/collections/polygon/${slug}` : null;
                                         return (
                                             <div key={`${a.set}-${a.rarity}-${i}`} className="flex justify-between items-center">
                                                 <Badge
@@ -100,28 +102,41 @@ export default function CharacterChecklist() {
                                                     {a.rarity} • {a.total_minted}{setLabel ? ` • ${setLabel}` : ''}
                                                 </Badge>
                                                 <div className="flex gap-1">
-                                                    <a
-                                                        href={magicEdenUrl}
-                                                        target="_blank"
-                                                        rel="noopener noreferrer"
-                                                        title="View on Magic Eden"
-                                                        aria-label="View on Magic Eden"
-                                                    >
-                                                        <Button variant="ghost" size="icon" className="h-5 w-5">
-                                                            <Wand2 className="h-4 w-4" />
-                                                        </Button>
-                                                    </a>
-                                                    <a
-                                                        href={openSeaUrl}
-                                                        target="_blank"
-                                                        rel="noopener noreferrer"
-                                                        title="View on OpenSea"
-                                                        aria-label="View on OpenSea"
-                                                    >
-                                                        <Button variant="ghost" size="icon" className="h-5 w-5">
-                                                            <Ship className="h-4 w-4" />
-                                                        </Button>
-                                                    </a>
+                                                    {slug ? (
+                                                        <>
+                                                            <a
+                                                                href={magicEdenUrl}
+                                                                target="_blank"
+                                                                rel="noopener noreferrer"
+                                                                title="View on Magic Eden"
+                                                                aria-label="View on Magic Eden"
+                                                            >
+                                                                <Button variant="ghost" size="icon" className="h-5 w-5">
+                                                                    <Wand2 className="h-4 w-4" />
+                                                                </Button>
+                                                            </a>
+                                                            <a
+                                                                href={openSeaUrl}
+                                                                target="_blank"
+                                                                rel="noopener noreferrer"
+                                                                title="View on OpenSea"
+                                                                aria-label="View on OpenSea"
+                                                            >
+                                                                <Button variant="ghost" size="icon" className="h-5 w-5">
+                                                                    <Ship className="h-4 w-4" />
+                                                                </Button>
+                                                            </a>
+                                                        </>
+                                                    ) : (
+                                                        <>
+                                                            <Button variant="ghost" size="icon" className="h-5 w-5 opacity-30" title="Magic Eden slug missing">
+                                                                <Wand2 className="h-4 w-4" />
+                                                            </Button>
+                                                            <Button variant="ghost" size="icon" className="h-5 w-5 opacity-30" title="OpenSea slug missing">
+                                                                <Ship className="h-4 w-4" />
+                                                            </Button>
+                                                        </>
+                                                    )}
                                                 </div>
                                             </div>
                                         )

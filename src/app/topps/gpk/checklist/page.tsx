@@ -2,6 +2,7 @@
 
 import { useEffect, useState } from "react";
 import { Ship, Wand2, Sun, Moon } from "lucide-react";
+import slugMap from "@/../public/data/topps/gpk/contract-to-slug.json";
 
 export default function ChecklistPage() {
   const [sets, setSets] = useState<any>({});
@@ -13,6 +14,39 @@ export default function ChecklistPage() {
   const rarityOrder = ["common", "uncommon", "rare", "super rare", "epic", "legendary"];
 
   const [theme, setTheme] = useState<"light" | "dark">("light");
+
+  function renderMarketplaceLinks(contract: string) {
+    const slug = slugMap[contract.toLowerCase()];
+    if (!slug) {
+      return (
+        <>
+          <Ship className="h-5 w-5 opacity-30" title="OpenSea slug missing" />
+          <Wand2 className="h-5 w-5 opacity-30" title="Magic Eden slug missing" />
+        </>
+      );
+    }
+
+    return (
+      <>
+        <a
+          href={`https://opensea.io/collection/${slug}`}
+          target="_blank"
+          rel="noopener noreferrer"
+          title="View collection on OpenSea"
+        >
+          <Ship className="h-5 w-5" />
+        </a>
+        <a
+          href={`https://magiceden.us/collections/polygon/${slug}`}
+          target="_blank"
+          rel="noopener noreferrer"
+          title="View collection on Magic Eden"
+        >
+          <Wand2 className="h-5 w-5" />
+        </a>
+      </>
+    );
+  }
 
   useEffect(() => {
     async function fetchChecklist() {
@@ -212,15 +246,7 @@ export default function ChecklistPage() {
                           >
                             {card ? (
                               <div className="flex justify-center gap-2">
-                                <a
-                                  href={`https://opensea.io/assets/matic/${card.contract}/1`}
-                                  target="_blank"
-                                  rel="noopener noreferrer"
-                                  title="View on OpenSea"
-                                >
-                                  <Ship className="h-5 w-5" />
-                                </a>
-                                <Wand2 className="h-5 w-5 opacity-30" title="Magic Eden unavailable" />
+                                {renderMarketplaceLinks(card.contract)}
                               </div>
                             ) : (
                               <div className="opacity-20">✖</div>
