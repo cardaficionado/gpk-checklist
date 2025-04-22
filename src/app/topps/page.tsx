@@ -1,10 +1,5 @@
 import Link from "next/link";
 
-export const metadata = {
-    title: "ToppsNFT Polygon Checklist",
-    description: "Unofficial community resource for tracking and managing ToppsNFTs after Polygon migration."
-};
-
 export default function HomePage() {
     return (
         <div className="min-h-screen flex flex-col justify-center items-center text-white bg-black p-8">
