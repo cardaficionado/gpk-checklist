@@ -32,9 +32,14 @@ export default function HomePage() {
                 >
                     View Checklist (Card View)
                 </Link>
+                <Link
+                    href="/topps/gpk/sales"
+                    className="bg-white text-black font-semibold px-8 py-4 rounded-md text-lg hover:bg-gray-300 transition text-center"
+                >
+                    View Recent GPK Sales Tracker
+                </Link>
             </div>
             <div className="mt-10 text-sm text-gray-400 text-center">
-                <p>Note: Magic Eden collections may not be fully accessible at this time due to recent change in contract pages.</p>
                 <p className="mt-2">
                     <a
                         href="https://github.com/cardaficionado/toppsnft-checklists"
