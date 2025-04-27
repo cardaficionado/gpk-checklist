@@ -27,7 +27,7 @@ export default function RootLayout({
                     </p>
                     {/* Inception Image */}
                     <img
-                        src="/data/topps/mlb/2021-topps-mlb-inception/inception_premium_Front_01.png"
+                        src="/data/topps/mlb/2021-topps-mlb-inception/Inception_premium_Front_01.png"
                         alt="2021 Topps MLB Inception"
                         className="mx-auto mb-8 w-60 rounded-lg shadow-lg" // Adjust size as necessary
                     />
