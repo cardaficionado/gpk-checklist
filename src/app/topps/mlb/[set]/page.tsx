@@ -1,14 +1,14 @@
-'use client';  // Marking the page as client-side to use React hooks
+'use client';
 
 import { useEffect, useState } from "react";
 import { notFound } from "next/navigation";
 import toppsSetList from "@/../public/data/topps/topps-setlist.json"; // Static import for setlist
-import checklistData from "@/../public/data/topps/mlb/2021-topps-mlb-inception/grouped_by_set_inception_flattened_final_with_contracts_images.json"; // Static import
+import checklistData from "@/../public/data/topps/mlb/2021-topps-mlb-inception/grouped_by_set_inception_flattened.json"; // Static import
 import slugData from "@/../public/data/topps/mlb/2021-topps-mlb-inception/contract_to_slug.json"; // Static import
-import { Badge } from "@/components/ui/badge"; // Assuming Badge component is imported
-import { Button } from "@/components/ui/button"; // Assuming Button component is imported
+import { Badge } from "@/components/ui/badge";
+import { Button } from "@/components/ui/button";
 import Link from "next/link";
-import { Ship, Wand2 } from 'lucide-react';  // Importing the icons
+import { Ship, Wand2, LinkIcon } from 'lucide-react';
 
 function slugify(name: string) {
   return name
@@ -30,10 +30,8 @@ export default function ChecklistPage({ params }: { params: { set: string } }) {
   const [matchingSet, setMatchingSet] = useState<any>(null);
   const [loading, setLoading] = useState(true);
 
-  // Fetch data for the checklist page on mount and on params change
   useEffect(() => {
     const fetchSet = async () => {
-      // Unwrap the params before using it
       const { set } = await params;
 
       const matchingSet = toppsSetList.find(
@@ -49,7 +47,7 @@ export default function ChecklistPage({ params }: { params: { set: string } }) {
     };
 
     fetchSet();
-  }, [params]); // Re-fetch when `params.set` changes
+  }, [params]);
 
   if (loading) return <div>Loading...</div>;
 
@@ -71,12 +69,12 @@ export default function ChecklistPage({ params }: { params: { set: string } }) {
 function ChecklistDisplay({ checklist, slugMap }: { checklist: NFTEntry[], slugMap: Record<string, string> }) {
   const [searchTerm, setSearchTerm] = useState('');
   const [selectedRarity, setSelectedRarity] = useState('');
-  const [sortField, setSortField] = useState('Name');  // Track the field for sorting
-  const [sortOrder, setSortOrder] = useState('asc'); // Track the sort direction (ascending/descending)
+  const [sortField, setSortField] = useState('Player'); // Sorting by 'Player' now
+  const [sortOrder, setSortOrder] = useState('asc');
 
   const filteredChecklist = checklist.filter(nft =>
-    nft.Name.toLowerCase().includes(searchTerm.toLowerCase()) &&
-    (selectedRarity ? nft['Rarity Name'].toLowerCase() === selectedRarity : true)
+    nft.Player.toLowerCase().includes(searchTerm.toLowerCase()) &&
+    (selectedRarity ? nft['Rarity'].toLowerCase() === selectedRarity : true)
   );
 
   const sortedChecklist = filteredChecklist.sort((a, b) => {
@@ -123,10 +121,10 @@ function ChecklistDisplay({ checklist, slugMap }: { checklist: NFTEntry[], slugM
           onChange={(e) => setSortField(e.target.value)}
           className="p-2 rounded-md border border-gray-600 bg-gray-800 text-white"
         >
-          <option value="Name">Player Name</option>
+          <option value="Player">Player Name</option>
           <option value="Team">Team</option>
-          <option value="Subset Name">Subset</option>
-          <option value="Rarity Name">Rarity</option>
+          <option value="Subset">Subset</option>
+          <option value="Rarity">Rarity</option>
         </select>
 
         <button
@@ -146,21 +144,21 @@ function ChecklistDisplay({ checklist, slugMap }: { checklist: NFTEntry[], slugM
             const slug = slugMap[nft['Contract Address']];
             const openSeaURL = slug ? `https://opensea.io/collection/${slug}` : '#';
             const magicEdenURL = slug ? `https://magiceden.io/collections/polygon/${slug}` : '#';
-            const rarityClass = rarityColors[nft['Rarity Name'].toLowerCase()] || 'bg-gray-500 text-white';
+            const rarityClass = rarityColors[nft['Rarity']?.toLowerCase()] || 'bg-gray-500 text-white';
 
             return (
               <div key={idx} className="border rounded-lg p-4 bg-black text-white flex flex-col items-center">
                 {nft['Image URL'] !== 'MISSING' && (
                   <img
                     src={nft['Image URL']}
-                    alt={nft.Name}
+                    alt={nft.Player}
                     className="w-full h-auto mb-4 rounded-lg max-w-xs mx-auto"
                   />
                 )}
-                <h2 className="text-xl font-bold text-center mb-2">{nft.Name}</h2>
+                <h2 className="text-xl font-bold text-center mb-2">{nft.Player}</h2>
                 <div className="flex flex-wrap justify-center gap-2 mb-2">
-                  <Badge className={rarityClass}>{nft['Rarity Name']}</Badge>
-                  <Badge>{nft['Subset Name']}</Badge>
+                  <Badge className={rarityClass}>{nft['Rarity']}</Badge>
+                  <Badge>{nft['Subset']}</Badge>
                 </div>
                 <p className="text-gray-400 text-sm mb-2">Minted: {nft['Mint Count']}</p>
                 {slug && (
@@ -173,6 +171,11 @@ function ChecklistDisplay({ checklist, slugMap }: { checklist: NFTEntry[], slugM
                     <Link href={magicEdenURL} target="_blank">
                       <Button variant="secondary">
                         <Wand2 size={24} className="mr-2" /> Magic Eden
+                      </Button>
+                    </Link>
+                    <Link href={`https://polygonscan.com/address/${nft['Contract Address']}`} target="_blank">
+                      <Button variant="secondary">
+                        <LinkIcon size={24} className="mr-2" /> PolygonScan
                       </Button>
                     </Link>
                   </div>

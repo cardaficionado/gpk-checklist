@@ -1,0 +1,212 @@
+[
+    {
+        "Player": "Jo Adell",
+        "Subset": "Inception Base",
+        "Rarity": "Common",
+        "Correct Contract": "0x3228d8534F9BF2dC3B40e0e232496742817812ea"
+    },
+    {
+        "Player": "Shohei Ohtani",
+        "Subset": "Inception Base",
+        "Rarity": "Legendary",
+        "Correct Contract": "0xf655f5c45918F5AcD379846dE149BeD5D2E5F761"
+    },
+    {
+        "Player": "William Contreras",
+        "Subset": "Rookie and Future Phenoms Facsimile Signature",
+        "Rarity": "Rare",
+        "Correct Contract": "0xA0F7564cf2F68beDEA54A5E01017D381BFFc6942"
+    },
+    {
+        "Player": "Ryan Mountcastle",
+        "Subset": "Inception Base",
+        "Rarity": "Common",
+        "Correct Contract": "0xD3bFb8a1A82D025Cc9AC62c3876F45c18E885112"
+    },
+    {
+        "Player": "Bobby Dalbec",
+        "Subset": "Rookie and Future Phenoms Facsimile Signature",
+        "Rarity": "Legendary",
+        "Correct Contract": "0x14bAD8Dd688496DF69bED3B44d3583f839F9C6e6"
+    },
+    {
+        "Player": "Chris Sale",
+        "Subset": "Inception Base",
+        "Rarity": "Rare",
+        "Correct Contract": "0x4ADB8CD3df636Fc56914BD6cB7A8Aa8B7DBd8449"
+    },
+    {
+        "Player": "Jonathan Arauz",
+        "Subset": "Rookie and Future Phenoms Facsimile Signature",
+        "Rarity": "Epic",
+        "Correct Contract": "0x9135848c59aB6a43157b182b7f526D06658a621D"
+    },
+    {
+        "Player": "Xander Bogaerts",
+        "Subset": "Inception Base",
+        "Rarity": "Common",
+        "Correct Contract": "0x4E1eF0ac8423525265CB7649c695f02ddC52B1C8"
+    },
+    {
+        "Player": "Anthony Rizzo",
+        "Subset": "Inception Base",
+        "Rarity": "Uncommon",
+        "Correct Contract": "0xa0a89E669aBbca585dcf4cB776Cb9E79C4563081"
+    },
+    {
+        "Player": "Anthony Rizzo",
+        "Subset": "Inception Base",
+        "Rarity": "Rare",
+        "Correct Contract": "0x162CEE116007a0478f2397487Eb0229125B849CF"
+    },
+    {
+        "Player": "Javier Baez",
+        "Subset": "Inception Base",
+        "Rarity": "Rare",
+        "Correct Contract": "0x272ea08fDf05fAeb1e5265b9558e9c6eFf14b3E6"
+    },
+    {
+        "Player": "Kyle Hendricks",
+        "Subset": "Inception Base",
+        "Rarity": "Common",
+        "Correct Contract": "0x6411978bAca7E92913773CA1D61997f68BE531aB"
+    },
+    {
+        "Player": "Willson Contreras",
+        "Subset": "Inception Base",
+        "Rarity": "Uncommon",
+        "Correct Contract": "0xeE9424e0A1d19e53117a5078616AA5B7CF7602Af"
+    },
+    {
+        "Player": "Willson Contreras",
+        "Subset": "Inception Base",
+        "Rarity": "Common",
+        "Correct Contract": "0xccfbb106487c1df9611d3e2f12d7e2f51b0095b7"
+    },
+    {
+        "Player": "Dane Dunning",
+        "Subset": "Inception Base",
+        "Rarity": "Common",
+        "Correct Contract": "0x441c8008656ca69569651c4ea152d1126c25f163"
+    },
+    {
+        "Player": "Trevor Story",
+        "Subset": "Inception Base",
+        "Rarity": "Rare",
+        "Correct Contract": "0x4163445fc216bcd5a4aee40b849eec854b12c66d"
+    },
+    {
+        "Player": "Casey Mize",
+        "Subset": "Inception Base",
+        "Rarity": "Uncommon",
+        "Correct Contract": "0x6eced6780912fb6fbcb95023841a17831ebaa9b2"
+    },
+    {
+        "Player": "Tarik Skubal",
+        "Subset": "Inception Base",
+        "Rarity": "Uncommon",
+        "Correct Contract": "0x848faf83928f14fdae2361bd470bc3175331a4ee"
+    },
+    {
+        "Player": "Jose Altuve",
+        "Subset": "Inception Base",
+        "Rarity": "Rare",
+        "Correct Contract": "0x246030885e92c82fcaa5c278959f506df7d0be22"
+    },
+    {
+        "Player": "Brady Singer",
+        "Subset": "Inception Base",
+        "Rarity": "Uncommon",
+        "Correct Contract": "0x50ddb5111b2c3904ef6657516ab78247200c52a9"
+    },
+    {
+        "Player": "Jorge Soler",
+        "Subset": "Inception Base",
+        "Rarity": "Uncommon",
+        "Correct Contract": "0x0fba1d2119f7abd0345ef00562824d7882f8080e"
+    },
+    {
+        "Player": "Jorge Soler",
+        "Subset": "Inception Base",
+        "Rarity": "Rare",
+        "Correct Contract": "0xed88e1b213e8a2496d1b5e080d03a287b49882c3"
+    },
+    {
+        "Player": "Cody Bellinger",
+        "Subset": "Inception Base",
+        "Rarity": "Legendary",
+        "Correct Contract": "0x48548ccc1c2675bcad0bf7a3cceb9258bfb8c602"
+    },
+    {
+        "Player": "Cody Bellinger",
+        "Subset": "Inception Base",
+        "Rarity": "Rare",
+        "Correct Contract": "0xdbccdc38d65ee2a04ddb97bd727848ff57417c8f"
+    },
+    {
+        "Player": "Keibert Ruiz",
+        "Subset": "Inception Base",
+        "Rarity": "Uncommon",
+        "Correct Contract": "0xb64015291a1947ea6b7fe215691480ff31e64cde"
+    },
+    {
+        "Player": "Keibert Ruiz",
+        "Subset": "Inception Base",
+        "Rarity": "Common",
+        "Correct Contract": "0x610452b0b3f365e6b297f7091579c2e614037aab"
+    },
+    {
+        "Player": "Mookie Betts",
+        "Subset": "Inception Base",
+        "Rarity": "Legendary",
+        "Correct Contract": "0x2dd36d22f9d22342b5eefbcade4f5141831d9eca"
+    },
+    {
+        "Player": "Evan White",
+        "Subset": "Inception Base",
+        "Rarity": "Common",
+        "Correct Contract": "0xd958b0d3fe064b3a50886b08bcfc70b35895bdb2"
+    },
+    {
+        "Player": "Blake Snell",
+        "Subset": "Inception Base",
+        "Rarity": "Rare",
+        "Correct Contract": "0x4d2b1a0e955d2e991e43f64d62db277177893ffa"
+    },
+    {
+        "Player": "Nate Pearson",
+        "Subset": "Inception Base",
+        "Rarity": "Uncommon",
+        "Correct Contract": "0x93d6c86c9d3466877cf22d9f37c4eeb3842ad2dd"
+    },
+    {
+        "Player": "Juan Soto",
+        "Subset": "Inception Base",
+        "Rarity": "Uncommon",
+        "Correct Contract": "0xbccf0045e5a475c565adb8fdfe37e9de45a4f3e8"
+    },
+    {
+        "Player": "Max Scherzer",
+        "Subset": "Inception Base",
+        "Rarity": "Uncommon",
+        "Correct Contract": "0xb8a7254d38a65a2c25f42c8f243cbac2dd0846da"
+    },
+    {
+        "Player": "Max Scherzer",
+        "Subset": "Inception Base",
+        "Rarity": "Common",
+        "Correct Contract": "0x147835163215b8e5ea829b3a3ca4b51da701c21e"
+    },
+    {
+        "Player": "Stephen Strasburg",
+        "Subset": "Inception Base",
+        "Rarity": "Legendary",
+        "Correct Contract": "0x363ea806302a2f6090733e51e62e24d3131bca60"
+    },
+    {
+        "Player": "Sterling Sharp",
+        "Subset": "Rookie and Future Phenoms Facsimile Signature",
+        "Rarity": "Epic",
+        "Correct Contract": "0x176900b78009f1782ae99d597273238f118bf918"
+    }
+]
