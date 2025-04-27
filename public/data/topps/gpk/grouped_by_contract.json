@@ -1,0 +1,2636 @@
+{
+  "0x755aee86c17872c0639c2b3d6123c717618b2c37": [
+    {
+      "character": "Bored Adam Yuck Club",
+      "rarity": "common",
+      "contract": "0x755aee86c17872c0639c2b3d6123c717618b2c37",
+      "image": "/data/topps/gpk/images/Bored_Adam_Yuck_Club.webp",
+      "slug": "bored-adam-yuck-club",
+      "set": "2022 Topps GPK Non-Flushable Tokens",
+      "total_minted": 120
+    }
+  ],
+  "0x470e816af168a484ddcf4883fbb712cf15855d0f": [
+    {
+      "character": "Bored Adam Yuck Club",
+      "rarity": "uncommon",
+      "contract": "0x470e816af168a484ddcf4883fbb712cf15855d0f",
+      "image": "/data/topps/gpk/images/Bored_Adam_Yuck_Club.webp",
+      "slug": "bored-adam-yuck-club",
+      "set": "2022 Topps GPK Non-Flushable Tokens",
+      "total_minted": 75
+    }
+  ],
+  "0x54bb729938e1273a4ec2de0a0b3178b4e1c8daa3": [
+    {
+      "character": "Bored Adam Yuck Club",
+      "rarity": "rare",
+      "contract": "0x54bb729938e1273a4ec2de0a0b3178b4e1c8daa3",
+      "image": "/data/topps/gpk/images/Bored_Adam_Yuck_Club.webp",
+      "slug": "bored-adam-yuck-club",
+      "set": "2022 Topps GPK Non-Flushable Tokens",
+      "total_minted": 50
+    }
+  ],
+  "0xda9432545c7681911c28dbc0955500be2456738a": [
+    {
+      "character": "Bored Adam Yuck Club",
+      "rarity": "super rare",
+      "contract": "0xda9432545c7681911c28dbc0955500be2456738a",
+      "image": "/data/topps/gpk/images/Bored_Adam_Yuck_Club.webp",
+      "slug": "bored-adam-yuck-club",
+      "set": "2022 Topps GPK Non-Flushable Tokens",
+      "total_minted": 25
+    }
+  ],
+  "0xaf76426d781df9e9a5b775391d34605415523faf": [
+    {
+      "character": "Bored Adam Yuck Club",
+      "rarity": "epic",
+      "contract": "0xaf76426d781df9e9a5b775391d34605415523faf",
+      "image": "/data/topps/gpk/images/Bored_Adam_Yuck_Club.webp",
+      "slug": "bored-adam-yuck-club",
+      "set": "2022 Topps GPK Non-Flushable Tokens",
+      "total_minted": 10
+    }
+  ],
+  "0xc5471a6d4cc9ece555228722cfb1566d8eba11de": [
+    {
+      "character": "Bored Adam Yuck Club",
+      "rarity": "legendary",
+      "contract": "0xc5471a6d4cc9ece555228722cfb1566d8eba11de",
+      "image": "/data/topps/gpk/images/Bored_Adam_Yuck_Club.webp",
+      "slug": "bored-adam-yuck-club",
+      "set": "2022 Topps GPK Non-Flushable Tokens",
+      "total_minted": 5
+    }
+  ],
+  "0xee633d18a666e2f911c719292ad0bf2355b00b57": [
+    {
+      "character": "Gassie Infinity",
+      "rarity": "common",
+      "contract": "0xee633d18a666e2f911c719292ad0bf2355b00b57",
+      "image": "/data/topps/gpk/images/Gassie_Infinity.webp",
+      "slug": "gassie-infinity",
+      "set": "2022 Topps GPK Non-Flushable Tokens",
+      "total_minted": 120
+    }
+  ],
+  "0x21105bffb1d45b79424cb2dbd48a6b132c0b7d14": [
+    {
+      "character": "Gassie Infinity",
+      "rarity": "uncommon",
+      "contract": "0x21105bffb1d45b79424cb2dbd48a6b132c0b7d14",
+      "image": "/data/topps/gpk/images/Gassie_Infinity.webp",
+      "slug": "gassie-infinity",
+      "set": "2022 Topps GPK Non-Flushable Tokens",
+      "total_minted": 75
+    }
+  ],
+  "0x3fa64b95cc9f9d4e6e85385e2315336e8766646e": [
+    {
+      "character": "Gassie Infinity",
+      "rarity": "rare",
+      "contract": "0x3fa64b95cc9f9d4e6e85385e2315336e8766646e",
+      "image": "/data/topps/gpk/images/Gassie_Infinity.webp",
+      "slug": "gassie-infinity",
+      "set": "2022 Topps GPK Non-Flushable Tokens",
+      "total_minted": 50
+    }
+  ],
+  "0x5ecb99bd0f5aecbb1850f66ef224757224032311": [
+    {
+      "character": "Gassie Infinity",
+      "rarity": "super rare",
+      "contract": "0x5ecb99bd0f5aecbb1850f66ef224757224032311",
+      "image": "/data/topps/gpk/images/Gassie_Infinity.webp",
+      "slug": "gassie-infinity",
+      "set": "2022 Topps GPK Non-Flushable Tokens",
+      "total_minted": 25
+    }
+  ],
+  "0x6cbbcf65374a6b1db379f4ca3e08e6cba46a9f47": [
+    {
+      "character": "Gassie Infinity",
+      "rarity": "epic",
+      "contract": "0x6cbbcf65374a6b1db379f4ca3e08e6cba46a9f47",
+      "image": "/data/topps/gpk/images/Gassie_Infinity.webp",
+      "slug": "gassie-infinity",
+      "set": "2022 Topps GPK Non-Flushable Tokens",
+      "total_minted": 10
+    }
+  ],
+  "0x506cb2444a2b72e82a7ed0361b66d40d4cb287f8": [
+    {
+      "character": "Gassie Infinity",
+      "rarity": "legendary",
+      "contract": "0x506cb2444a2b72e82a7ed0361b66d40d4cb287f8",
+      "image": "/data/topps/gpk/images/Gassie_Infinity.webp",
+      "slug": "gassie-infinity",
+      "set": "2022 Topps GPK Non-Flushable Tokens",
+      "total_minted": 5
+    }
+  ],
+  "0x4dc1d9e8cbc1d5bdd3d2596a27d6cd445db2b692": [
+    {
+      "character": "Crypto Pukes",
+      "rarity": "common",
+      "contract": "0x4dc1d9e8cbc1d5bdd3d2596a27d6cd445db2b692",
+      "image": "/data/topps/gpk/images/Crypto_Pukes.webp",
+      "slug": "crypto-pukes",
+      "set": "2022 Topps GPK Non-Flushable Tokens",
+      "total_minted": 120
+    }
+  ],
+  "0xe2118c23c5a3326a6312bc3dbeda553566888d2f": [
+    {
+      "character": "Crypto Pukes",
+      "rarity": "uncommon",
+      "contract": "0xe2118c23c5a3326a6312bc3dbeda553566888d2f",
+      "image": "/data/topps/gpk/images/Crypto_Pukes.webp",
+      "slug": "crypto-pukes",
+      "set": "2022 Topps GPK Non-Flushable Tokens",
+      "total_minted": 75
+    }
+  ],
+  "0xaf945ddf4863a8a0c652c68425d2991fa3f44ebd": [
+    {
+      "character": "Crypto Pukes",
+      "rarity": "rare",
+      "contract": "0xaf945ddf4863a8a0c652c68425d2991fa3f44ebd",
+      "image": "/data/topps/gpk/images/Crypto_Pukes.webp",
+      "slug": "crypto-pukes",
+      "set": "2022 Topps GPK Non-Flushable Tokens",
+      "total_minted": 50
+    }
+  ],
+  "0x562523465e726dac91a60772a4302151c38d5bcf": [
+    {
+      "character": "Crypto Pukes",
+      "rarity": "super rare",
+      "contract": "0x562523465e726dac91a60772a4302151c38d5bcf",
+      "image": "/data/topps/gpk/images/Crypto_Pukes.webp",
+      "slug": "crypto-pukes",
+      "set": "2022 Topps GPK Non-Flushable Tokens",
+      "total_minted": 25
+    }
+  ],
+  "0xb2ab19a30f0595127af7b2eaedad0960b1f40140": [
+    {
+      "character": "Crypto Pukes",
+      "rarity": "epic",
+      "contract": "0xb2ab19a30f0595127af7b2eaedad0960b1f40140",
+      "image": "/data/topps/gpk/images/Crypto_Pukes.webp",
+      "slug": "crypto-pukes",
+      "set": "2022 Topps GPK Non-Flushable Tokens",
+      "total_minted": 10
+    }
+  ],
+  "0x293f7cc663846c590744bc566b694616281f54a9": [
+    {
+      "character": "Crypto Pukes",
+      "rarity": "legendary",
+      "contract": "0x293f7cc663846c590744bc566b694616281f54a9",
+      "image": "/data/topps/gpk/images/Crypto_Pukes.webp",
+      "slug": "crypto-pukes",
+      "set": "2022 Topps GPK Non-Flushable Tokens",
+      "total_minted": 5
+    }
+  ],
+  "0x732afa93d05c7ce27a12f65b6e18b2a85bcf597e": [
+    {
+      "character": "Eye Candy Digital",
+      "rarity": "common",
+      "contract": "0x732afa93d05c7ce27a12f65b6e18b2a85bcf597e",
+      "image": "/data/topps/gpk/images/Eye_Candy_Digital.webp",
+      "slug": "eye-candy-digital",
+      "set": "2022 Topps GPK Non-Flushable Tokens",
+      "total_minted": 120
+    }
+  ],
+  "0x0cd17bb3765125dc88a676b9b2732457d0d052d4": [
+    {
+      "character": "Eye Candy Digital",
+      "rarity": "uncommon",
+      "contract": "0x0cd17bb3765125dc88a676b9b2732457d0d052d4",
+      "image": "/data/topps/gpk/images/Eye_Candy_Digital.webp",
+      "slug": "eye-candy-digital",
+      "set": "2022 Topps GPK Non-Flushable Tokens",
+      "total_minted": 75
+    }
+  ],
+  "0x8712a0b2d2baa96ef41899a49487cdc083a9597c": [
+    {
+      "character": "Eye Candy Digital",
+      "rarity": "rare",
+      "contract": "0x8712a0b2d2baa96ef41899a49487cdc083a9597c",
+      "image": "/data/topps/gpk/images/Eye_Candy_Digital.webp",
+      "slug": "eye-candy-digital",
+      "set": "2022 Topps GPK Non-Flushable Tokens",
+      "total_minted": 50
+    }
+  ],
+  "0x85813bad2f6855f25bd32fbfa3811a4b3b04a24f": [
+    {
+      "character": "Eye Candy Digital",
+      "rarity": "super rare",
+      "contract": "0x85813bad2f6855f25bd32fbfa3811a4b3b04a24f",
+      "image": "/data/topps/gpk/images/Eye_Candy_Digital.webp",
+      "slug": "eye-candy-digital",
+      "set": "2022 Topps GPK Non-Flushable Tokens",
+      "total_minted": 25
+    }
+  ],
+  "0x7b0a35941e076a85e6601eb6ea892329b2ec5deb": [
+    {
+      "character": "Eye Candy Digital",
+      "rarity": "epic",
+      "contract": "0x7b0a35941e076a85e6601eb6ea892329b2ec5deb",
+      "image": "/data/topps/gpk/images/Eye_Candy_Digital.webp",
+      "slug": "eye-candy-digital",
+      "set": "2022 Topps GPK Non-Flushable Tokens",
+      "total_minted": 10
+    }
+  ],
+  "0x9e68e9966c59d6057e95aeaa780a2e917ca99741": [
+    {
+      "character": "Eye Candy Digital",
+      "rarity": "legendary",
+      "contract": "0x9e68e9966c59d6057e95aeaa780a2e917ca99741",
+      "image": "/data/topps/gpk/images/Eye_Candy_Digital.webp",
+      "slug": "eye-candy-digital",
+      "set": "2022 Topps GPK Non-Flushable Tokens",
+      "total_minted": 5
+    }
+  ],
+  "0xa0c242b332a7e3194320800561ba7a8ad32f545f": [
+    {
+      "character": "Vee Fiend",
+      "rarity": "common",
+      "contract": "0xa0c242b332a7e3194320800561ba7a8ad32f545f",
+      "image": "/data/topps/gpk/images/Vee_Fiend.webp",
+      "slug": "vee-fiend",
+      "set": "2022 Topps GPK Non-Flushable Tokens",
+      "total_minted": 120
+    }
+  ],
+  "0x1b4015c5a597ff495328e1afa65c96c8ce5c433b": [
+    {
+      "character": "Vee Fiend",
+      "rarity": "uncommon",
+      "contract": "0x1b4015c5a597ff495328e1afa65c96c8ce5c433b",
+      "image": "/data/topps/gpk/images/Vee_Fiend.webp",
+      "slug": "vee-fiend",
+      "set": "2022 Topps GPK Non-Flushable Tokens",
+      "total_minted": 75
+    }
+  ],
+  "0xd4a36dd81d37f3e61711eefb9709bf6f5648ceb3": [
+    {
+      "character": "Vee Fiend",
+      "rarity": "rare",
+      "contract": "0xd4a36dd81d37f3e61711eefb9709bf6f5648ceb3",
+      "image": "/data/topps/gpk/images/Vee_Fiend.webp",
+      "slug": "vee-fiend",
+      "set": "2022 Topps GPK Non-Flushable Tokens",
+      "total_minted": 50
+    }
+  ],
+  "0x7790f9cd1a4f1c3ed01209882a9fb129b81ca57b": [
+    {
+      "character": "Vee Fiend",
+      "rarity": "super rare",
+      "contract": "0x7790f9cd1a4f1c3ed01209882a9fb129b81ca57b",
+      "image": "/data/topps/gpk/images/Vee_Fiend.webp",
+      "slug": "vee-fiend",
+      "set": "2022 Topps GPK Non-Flushable Tokens",
+      "total_minted": 25
+    }
+  ],
+  "0x9bb0492a911d3b02f183399c8075dffed63c34c8": [
+    {
+      "character": "Vee Fiend",
+      "rarity": "epic",
+      "contract": "0x9bb0492a911d3b02f183399c8075dffed63c34c8",
+      "image": "/data/topps/gpk/images/Vee_Fiend.webp",
+      "slug": "vee-fiend",
+      "set": "2022 Topps GPK Non-Flushable Tokens",
+      "total_minted": 10
+    }
+  ],
+  "0xe38448c90e85c22cce188615adae00428cc01c87": [
+    {
+      "character": "Vee Fiend",
+      "rarity": "legendary",
+      "contract": "0xe38448c90e85c22cce188615adae00428cc01c87",
+      "image": "/data/topps/gpk/images/Vee_Fiend.webp",
+      "slug": "vee-fiend",
+      "set": "2022 Topps GPK Non-Flushable Tokens",
+      "total_minted": 5
+    }
+  ],
+  "0x4b76ee2e68797eaff913ef02367b1a84e33c7569": [
+    {
+      "character": "Burning Bennie",
+      "rarity": "common",
+      "contract": "0x4b76ee2e68797eaff913ef02367b1a84e33c7569",
+      "image": "/data/topps/gpk/images/Burning_Bennie.webp",
+      "slug": "burning-bennie",
+      "set": "2022 Topps GPK Non-Flushable Tokens",
+      "total_minted": 120
+    }
+  ],
+  "0xb64eca1ea05dcb2557a31a2f82e11b7b176497c1": [
+    {
+      "character": "Burning Bennie",
+      "rarity": "uncommon",
+      "contract": "0xb64eca1ea05dcb2557a31a2f82e11b7b176497c1",
+      "image": "/data/topps/gpk/images/Burning_Bennie.webp",
+      "slug": "burning-bennie",
+      "set": "2022 Topps GPK Non-Flushable Tokens",
+      "total_minted": 75
+    }
+  ],
+  "0x339ca53fc9d6c1b91ae5c5b2464dfe7f8214e4e7": [
+    {
+      "character": "Burning Bennie",
+      "rarity": "rare",
+      "contract": "0x339ca53fc9d6c1b91ae5c5b2464dfe7f8214e4e7",
+      "image": "/data/topps/gpk/images/Burning_Bennie.webp",
+      "slug": "burning-bennie",
+      "set": "2022 Topps GPK Non-Flushable Tokens",
+      "total_minted": 50
+    }
+  ],
+  "0xceb546c97762e31ee4d6ea0864b192a1034802c7": [
+    {
+      "character": "Burning Bennie",
+      "rarity": "super rare",
+      "contract": "0xceb546c97762e31ee4d6ea0864b192a1034802c7",
+      "image": "/data/topps/gpk/images/Burning_Bennie.webp",
+      "slug": "burning-bennie",
+      "set": "2022 Topps GPK Non-Flushable Tokens",
+      "total_minted": 25
+    }
+  ],
+  "0x76cf07b8de7dc83ca0aa8396cff197f2e44941f1": [
+    {
+      "character": "Burning Bennie",
+      "rarity": "epic",
+      "contract": "0x76cf07b8de7dc83ca0aa8396cff197f2e44941f1",
+      "image": "/data/topps/gpk/images/Burning_Bennie.webp",
+      "slug": "burning-bennie",
+      "set": "2022 Topps GPK Non-Flushable Tokens",
+      "total_minted": 10
+    }
+  ],
+  "0xfa0135e13af87cdc4a6240e798260963754133ae": [
+    {
+      "character": "Burning Bennie",
+      "rarity": "legendary",
+      "contract": "0xfa0135e13af87cdc4a6240e798260963754133ae",
+      "image": "/data/topps/gpk/images/Burning_Bennie.webp",
+      "slug": "burning-bennie",
+      "set": "2022 Topps GPK Non-Flushable Tokens",
+      "total_minted": 5
+    }
+  ],
+  "0xe25bd3a4660ee9743f8a99690fd054a76d33aa91": [
+    {
+      "character": "WAXy William",
+      "rarity": "common",
+      "contract": "0xe25bd3a4660ee9743f8a99690fd054a76d33aa91",
+      "image": "/data/topps/gpk/images/WAXy_William.webp",
+      "slug": "waxy-william",
+      "set": "2022 Topps GPK Non-Flushable Tokens",
+      "total_minted": 120
+    }
+  ],
+  "0x5bc93d0ecd626d2782008192063b0b7728b982ec": [
+    {
+      "character": "WAXy William",
+      "rarity": "uncommon",
+      "contract": "0x5bc93d0ecd626d2782008192063b0b7728b982ec",
+      "image": "/data/topps/gpk/images/WAXy_William.webp",
+      "slug": "waxy-william",
+      "set": "2022 Topps GPK Non-Flushable Tokens",
+      "total_minted": 75
+    }
+  ],
+  "0xf4b0d98ba5d370b3e34eb9a91c797696b68643e9": [
+    {
+      "character": "WAXy William",
+      "rarity": "rare",
+      "contract": "0xf4b0d98ba5d370b3e34eb9a91c797696b68643e9",
+      "image": "/data/topps/gpk/images/WAXy_William.webp",
+      "slug": "waxy-william",
+      "set": "2022 Topps GPK Non-Flushable Tokens",
+      "total_minted": 50
+    }
+  ],
+  "0x8aebbab9900d591c53f0e70c2a6335782b12babc": [
+    {
+      "character": "WAXy William",
+      "rarity": "super rare",
+      "contract": "0x8aebbab9900d591c53f0e70c2a6335782b12babc",
+      "image": "/data/topps/gpk/images/WAXy_William.webp",
+      "slug": "waxy-william",
+      "set": "2022 Topps GPK Non-Flushable Tokens",
+      "total_minted": 25
+    }
+  ],
+  "0x22bf016d8c91455eaef4990c9cfe7b10ae38833e": [
+    {
+      "character": "WAXy William",
+      "rarity": "epic",
+      "contract": "0x22bf016d8c91455eaef4990c9cfe7b10ae38833e",
+      "image": "/data/topps/gpk/images/WAXy_William.webp",
+      "slug": "waxy-william",
+      "set": "2022 Topps GPK Non-Flushable Tokens",
+      "total_minted": 10
+    }
+  ],
+  "0x24f91c15c22d6af560370c184ea5838d44038c99": [
+    {
+      "character": "WAXy William",
+      "rarity": "legendary",
+      "contract": "0x24f91c15c22d6af560370c184ea5838d44038c99",
+      "image": "/data/topps/gpk/images/WAXy_William.webp",
+      "slug": "waxy-william",
+      "set": "2022 Topps GPK Non-Flushable Tokens",
+      "total_minted": 5
+    }
+  ],
+  "0x95fb5675f08734d11cd2dcb72fd8fbd5a5261ae2": [
+    {
+      "character": "AVA Lamp",
+      "rarity": "common",
+      "contract": "0x95fb5675f08734d11cd2dcb72fd8fbd5a5261ae2",
+      "image": "/data/topps/gpk/images/AVA_Lamp.webp",
+      "slug": "ava-lamp",
+      "set": "2022 Topps GPK Non-Flushable Tokens",
+      "total_minted": 120
+    }
+  ],
+  "0x68b7b9b8992a68b77d2d4b557332184081005c77": [
+    {
+      "character": "AVA Lamp",
+      "rarity": "uncommon",
+      "contract": "0x68b7b9b8992a68b77d2d4b557332184081005c77",
+      "image": "/data/topps/gpk/images/AVA_Lamp.webp",
+      "slug": "ava-lamp",
+      "set": "2022 Topps GPK Non-Flushable Tokens",
+      "total_minted": 75
+    }
+  ],
+  "0xd3572118978091a8a50052c36ae88dcb64f03f43": [
+    {
+      "character": "AVA Lamp",
+      "rarity": "rare",
+      "contract": "0xd3572118978091a8a50052c36ae88dcb64f03f43",
+      "image": "/data/topps/gpk/images/AVA_Lamp.webp",
+      "slug": "ava-lamp",
+      "set": "2022 Topps GPK Non-Flushable Tokens",
+      "total_minted": 50
+    }
+  ],
+  "0xf80839b01f6cb0709f8606a0f9c63d54e85011a7": [
+    {
+      "character": "AVA Lamp",
+      "rarity": "super rare",
+      "contract": "0xf80839b01f6cb0709f8606a0f9c63d54e85011a7",
+      "image": "/data/topps/gpk/images/AVA_Lamp.webp",
+      "slug": "ava-lamp",
+      "set": "2022 Topps GPK Non-Flushable Tokens",
+      "total_minted": 25
+    }
+  ],
+  "0x538cc484af86a71763b19a24c0500953e844a840": [
+    {
+      "character": "AVA Lamp",
+      "rarity": "epic",
+      "contract": "0x538cc484af86a71763b19a24c0500953e844a840",
+      "image": "/data/topps/gpk/images/AVA_Lamp.webp",
+      "slug": "ava-lamp",
+      "set": "2022 Topps GPK Non-Flushable Tokens",
+      "total_minted": 10
+    }
+  ],
+  "0xac16a6eeaf2da22df431b39772673fb95f0a0a7e": [
+    {
+      "character": "AVA Lamp",
+      "rarity": "legendary",
+      "contract": "0xac16a6eeaf2da22df431b39772673fb95f0a0a7e",
+      "image": "/data/topps/gpk/images/AVA_Lamp.webp",
+      "slug": "ava-lamp",
+      "set": "2022 Topps GPK Non-Flushable Tokens",
+      "total_minted": 5
+    }
+  ],
+  "0x2ba12b8a0d30ec7966421867366c4f19f77786d0": [
+    {
+      "character": "Developer Dale",
+      "rarity": "common",
+      "contract": "0x2ba12b8a0d30ec7966421867366c4f19f77786d0",
+      "image": "/data/topps/gpk/images/Developer_Dale.webp",
+      "slug": "developer-dale",
+      "set": "2022 Topps GPK Non-Flushable Tokens",
+      "total_minted": 120
+    }
+  ],
+  "0x67b2db604b0444689cfd96ad9ad2c2c6639e2a4c": [
+    {
+      "character": "Developer Dale",
+      "rarity": "uncommon",
+      "contract": "0x67b2db604b0444689cfd96ad9ad2c2c6639e2a4c",
+      "image": "/data/topps/gpk/images/Developer_Dale.webp",
+      "slug": "developer-dale",
+      "set": "2022 Topps GPK Non-Flushable Tokens",
+      "total_minted": 75
+    }
+  ],
+  "0x2fe6cf04fb83e38e081c15a8e59c4c89701f7890": [
+    {
+      "character": "Developer Dale",
+      "rarity": "rare",
+      "contract": "0x2fe6cf04fb83e38e081c15a8e59c4c89701f7890",
+      "image": "/data/topps/gpk/images/Developer_Dale.webp",
+      "slug": "developer-dale",
+      "set": "2022 Topps GPK Non-Flushable Tokens",
+      "total_minted": 50
+    }
+  ],
+  "0xe74ce79d41b12d3aeb3dded40ba432496859bfbc": [
+    {
+      "character": "Developer Dale",
+      "rarity": "super rare",
+      "contract": "0xe74ce79d41b12d3aeb3dded40ba432496859bfbc",
+      "image": "/data/topps/gpk/images/Developer_Dale.webp",
+      "slug": "developer-dale",
+      "set": "2022 Topps GPK Non-Flushable Tokens",
+      "total_minted": 25
+    }
+  ],
+  "0x973f6670a5504167a0b8d63f7f3377ca9fc3d583": [
+    {
+      "character": "Developer Dale",
+      "rarity": "epic",
+      "contract": "0x973f6670a5504167a0b8d63f7f3377ca9fc3d583",
+      "image": "/data/topps/gpk/images/Developer_Dale.webp",
+      "slug": "developer-dale",
+      "set": "2022 Topps GPK Non-Flushable Tokens",
+      "total_minted": 10
+    }
+  ],
+  "0x490ce96b297bef90d8cc6c23af6833b30daf64b3": [
+    {
+      "character": "Developer Dale",
+      "rarity": "legendary",
+      "contract": "0x490ce96b297bef90d8cc6c23af6833b30daf64b3",
+      "image": "/data/topps/gpk/images/Developer_Dale.webp",
+      "slug": "developer-dale",
+      "set": "2022 Topps GPK Non-Flushable Tokens",
+      "total_minted": 5
+    }
+  ],
+  "0xe993386607dbb7cc3853b873c3e5f1d4d652b23f": [
+    {
+      "character": "Cobalt CAThy",
+      "rarity": "common",
+      "contract": "0xe993386607dbb7cc3853b873c3e5f1d4d652b23f",
+      "image": "/data/topps/gpk/images/Cobalt_CAThy.webp",
+      "slug": "cobalt-cathy",
+      "set": "2022 Topps GPK Non-Flushable Tokens",
+      "total_minted": 120
+    }
+  ],
+  "0x903e81200fffdbad7315df18fa943010135c8e6c": [
+    {
+      "character": "Cobalt CAThy",
+      "rarity": "uncommon",
+      "contract": "0x903e81200fffdbad7315df18fa943010135c8e6c",
+      "image": "/data/topps/gpk/images/Cobalt_CAThy.webp",
+      "slug": "cobalt-cathy",
+      "set": "2022 Topps GPK Non-Flushable Tokens",
+      "total_minted": 75
+    }
+  ],
+  "0xfb77eecaeba9cb4b72a0aa7f821c73863a670b94": [
+    {
+      "character": "Cobalt CAThy",
+      "rarity": "rare",
+      "contract": "0xfb77eecaeba9cb4b72a0aa7f821c73863a670b94",
+      "image": "/data/topps/gpk/images/Cobalt_CAThy.webp",
+      "slug": "cobalt-cathy",
+      "set": "2022 Topps GPK Non-Flushable Tokens",
+      "total_minted": 50
+    }
+  ],
+  "0xad05e58e829af675766ad5566045bdabca940e4b": [
+    {
+      "character": "Cobalt CAThy",
+      "rarity": "super rare",
+      "contract": "0xad05e58e829af675766ad5566045bdabca940e4b",
+      "image": "/data/topps/gpk/images/Cobalt_CAThy.webp",
+      "slug": "cobalt-cathy",
+      "set": "2022 Topps GPK Non-Flushable Tokens",
+      "total_minted": 25
+    }
+  ],
+  "0xc0897ff657d8a4f838ee50e8fdbf0a8f01191270": [
+    {
+      "character": "Cobalt CAThy",
+      "rarity": "epic",
+      "contract": "0xc0897ff657d8a4f838ee50e8fdbf0a8f01191270",
+      "image": "/data/topps/gpk/images/Cobalt_CAThy.webp",
+      "slug": "cobalt-cathy",
+      "set": "2022 Topps GPK Non-Flushable Tokens",
+      "total_minted": 10
+    }
+  ],
+  "0x4cf6d022cbc3448e4eb8a66362a8af515043593a": [
+    {
+      "character": "Cobalt CAThy",
+      "rarity": "legendary",
+      "contract": "0x4cf6d022cbc3448e4eb8a66362a8af515043593a",
+      "image": "/data/topps/gpk/images/Cobalt_CAThy.webp",
+      "slug": "cobalt-cathy",
+      "set": "2022 Topps GPK Non-Flushable Tokens",
+      "total_minted": 5
+    }
+  ],
+  "0x0b7e3a95c8a22bf611650aceb224d1994866d7c3": [
+    {
+      "character": "FeRARI Frank",
+      "rarity": "common",
+      "contract": "0x0b7e3a95c8a22bf611650aceb224d1994866d7c3",
+      "image": "/data/topps/gpk/images/FeRARI_Frank.webp",
+      "slug": "ferari-frank",
+      "set": "2022 Topps GPK Non-Flushable Tokens",
+      "total_minted": 120
+    }
+  ],
+  "0x8505d0357098a334ab02720b2afd284f0e8950b6": [
+    {
+      "character": "FeRARI Frank",
+      "rarity": "uncommon",
+      "contract": "0x8505d0357098a334ab02720b2afd284f0e8950b6",
+      "image": "/data/topps/gpk/images/FeRARI_Frank.webp",
+      "slug": "ferari-frank",
+      "set": "2022 Topps GPK Non-Flushable Tokens",
+      "total_minted": 75
+    }
+  ],
+  "0xc7546a3e7aa3a47eedbe311cb682940cd7cbb4aa": [
+    {
+      "character": "FeRARI Frank",
+      "rarity": "rare",
+      "contract": "0xc7546a3e7aa3a47eedbe311cb682940cd7cbb4aa",
+      "image": "/data/topps/gpk/images/FeRARI_Frank.webp",
+      "slug": "ferari-frank",
+      "set": "2022 Topps GPK Non-Flushable Tokens",
+      "total_minted": 50
+    }
+  ],
+  "0xaace8ff0e8bc4f8fb7d752d505d854c8950189e3": [
+    {
+      "character": "FeRARI Frank",
+      "rarity": "super rare",
+      "contract": "0xaace8ff0e8bc4f8fb7d752d505d854c8950189e3",
+      "image": "/data/topps/gpk/images/FeRARI_Frank.webp",
+      "slug": "ferari-frank",
+      "set": "2022 Topps GPK Non-Flushable Tokens",
+      "total_minted": 25
+    }
+  ],
+  "0xcc90679b0a11d9259be57dcb2d6d9dfb593ae4fb": [
+    {
+      "character": "FeRARI Frank",
+      "rarity": "epic",
+      "contract": "0xcc90679b0a11d9259be57dcb2d6d9dfb593ae4fb",
+      "image": "/data/topps/gpk/images/FeRARI_Frank.webp",
+      "slug": "ferari-frank",
+      "set": "2022 Topps GPK Non-Flushable Tokens",
+      "total_minted": 10
+    }
+  ],
+  "0x40801a3c48c73e53040ae085b38fca02b4c0237b": [
+    {
+      "character": "FeRARI Frank",
+      "rarity": "legendary",
+      "contract": "0x40801a3c48c73e53040ae085b38fca02b4c0237b",
+      "image": "/data/topps/gpk/images/FeRARI_Frank.webp",
+      "slug": "ferari-frank",
+      "set": "2022 Topps GPK Non-Flushable Tokens",
+      "total_minted": 5
+    }
+  ],
+  "0x3fd22b040f37938d73624ef0679e1cf1e46f0c36": [
+    {
+      "character": "Gemini Gene",
+      "rarity": "common",
+      "contract": "0x3fd22b040f37938d73624ef0679e1cf1e46f0c36",
+      "image": "/data/topps/gpk/images/Gemini_Gene.webp",
+      "slug": "gemini-gene",
+      "set": "2022 Topps GPK Non-Flushable Tokens",
+      "total_minted": 120
+    }
+  ],
+  "0xa21d0d9bbc4f17762c3b61ac538a05cfab687035": [
+    {
+      "character": "Gemini Gene",
+      "rarity": "uncommon",
+      "contract": "0xa21d0d9bbc4f17762c3b61ac538a05cfab687035",
+      "image": "/data/topps/gpk/images/Gemini_Gene.webp",
+      "slug": "gemini-gene",
+      "set": "2022 Topps GPK Non-Flushable Tokens",
+      "total_minted": 75
+    }
+  ],
+  "0xb511749122df53012dbe29756f7a46ae70b4c813": [
+    {
+      "character": "Gemini Gene",
+      "rarity": "rare",
+      "contract": "0xb511749122df53012dbe29756f7a46ae70b4c813",
+      "image": "/data/topps/gpk/images/Gemini_Gene.webp",
+      "slug": "gemini-gene",
+      "set": "2022 Topps GPK Non-Flushable Tokens",
+      "total_minted": 50
+    }
+  ],
+  "0x3d54ad2b3dc4826b41713a45b8fd282a7acb2d56": [
+    {
+      "character": "Gemini Gene",
+      "rarity": "super rare",
+      "contract": "0x3d54ad2b3dc4826b41713a45b8fd282a7acb2d56",
+      "image": "/data/topps/gpk/images/Gemini_Gene.webp",
+      "slug": "gemini-gene",
+      "set": "2022 Topps GPK Non-Flushable Tokens",
+      "total_minted": 25
+    },
+    {
+      "character": "Gemini Gene",
+      "rarity": "super rare",
+      "contract": "0x3d54ad2b3dc4826b41713a45b8fd282a7acb2d56",
+      "image": "/data/topps/gpk/images/Gemini_Gene.webp",
+      "slug": "gemini-gene",
+      "set": "2022 Topps GPK Non-Flushable Tokens Challenge Rewards",
+      "total_minted": 25
+    }
+  ],
+  "0x69069cda6ed24445fa2e0d1b2f18a676ee9706cd": [
+    {
+      "character": "Gemini Gene",
+      "rarity": "epic",
+      "contract": "0x69069cda6ed24445fa2e0d1b2f18a676ee9706cd",
+      "image": "/data/topps/gpk/images/Gemini_Gene.webp",
+      "slug": "gemini-gene",
+      "set": "2022 Topps GPK Non-Flushable Tokens",
+      "total_minted": 10
+    }
+  ],
+  "0xe87c34a0a30e4b5a435d4c12e57da9005161a197": [
+    {
+      "character": "Gemini Gene",
+      "rarity": "legendary",
+      "contract": "0xe87c34a0a30e4b5a435d4c12e57da9005161a197",
+      "image": "/data/topps/gpk/images/Gemini_Gene.webp",
+      "slug": "gemini-gene",
+      "set": "2022 Topps GPK Non-Flushable Tokens",
+      "total_minted": 5
+    }
+  ],
+  "0xad8b3edc08d8b3341dc92a8cb15ee68dcea80987": [
+    {
+      "character": "LUNA-Tic",
+      "rarity": "common",
+      "contract": "0xad8b3edc08d8b3341dc92a8cb15ee68dcea80987",
+      "image": "/data/topps/gpk/images/LUNA-Tic.webp",
+      "slug": "luna-tic",
+      "set": "2022 Topps GPK Non-Flushable Tokens",
+      "total_minted": 120
+    }
+  ],
+  "0xc0594914bd5d7741fee32ae922479c0812358897": [
+    {
+      "character": "LUNA-Tic",
+      "rarity": "uncommon",
+      "contract": "0xc0594914bd5d7741fee32ae922479c0812358897",
+      "image": "/data/topps/gpk/images/LUNA-Tic.webp",
+      "slug": "luna-tic",
+      "set": "2022 Topps GPK Non-Flushable Tokens",
+      "total_minted": 75
+    }
+  ],
+  "0x8c3273241964d2e6fb173a4527ab93fde6b875dc": [
+    {
+      "character": "LUNA-Tic",
+      "rarity": "rare",
+      "contract": "0x8c3273241964d2e6fb173a4527ab93fde6b875dc",
+      "image": "/data/topps/gpk/images/LUNA-Tic.webp",
+      "slug": "luna-tic",
+      "set": "2022 Topps GPK Non-Flushable Tokens",
+      "total_minted": 50
+    }
+  ],
+  "0xa3216399444ce87e7c61c5a9d607a3171c1df751": [
+    {
+      "character": "LUNA-Tic",
+      "rarity": "super rare",
+      "contract": "0xa3216399444ce87e7c61c5a9d607a3171c1df751",
+      "image": "/data/topps/gpk/images/LUNA-Tic.webp",
+      "slug": "luna-tic",
+      "set": "2022 Topps GPK Non-Flushable Tokens",
+      "total_minted": 25
+    }
+  ],
+  "0xbfcd8f8ff22005cd2481b77ef45a3833e601e040": [
+    {
+      "character": "LUNA-Tic",
+      "rarity": "epic",
+      "contract": "0xbfcd8f8ff22005cd2481b77ef45a3833e601e040",
+      "image": "/data/topps/gpk/images/LUNA-Tic.webp",
+      "slug": "luna-tic",
+      "set": "2022 Topps GPK Non-Flushable Tokens",
+      "total_minted": 10
+    }
+  ],
+  "0xe289071fbf5af948ac5f4226b4450645cc2733df": [
+    {
+      "character": "LUNA-Tic",
+      "rarity": "legendary",
+      "contract": "0xe289071fbf5af948ac5f4226b4450645cc2733df",
+      "image": "/data/topps/gpk/images/LUNA-Tic.webp",
+      "slug": "luna-tic",
+      "set": "2022 Topps GPK Non-Flushable Tokens",
+      "total_minted": 5
+    }
+  ],
+  "0x12523869026f354d6d2b92e386b70c2ebbd14744": [
+    {
+      "character": "Airdrop Angel",
+      "rarity": "common",
+      "contract": "0x12523869026f354d6d2b92e386b70c2ebbd14744",
+      "image": "/data/topps/gpk/images/Airdrop_Angel.webp",
+      "slug": "airdrop-angel",
+      "set": "2022 Topps GPK Non-Flushable Tokens",
+      "total_minted": 120
+    }
+  ],
+  "0xfa350eb6c37839d55a853e4ffe2553e90e454c8c": [
+    {
+      "character": "Airdrop Angel",
+      "rarity": "uncommon",
+      "contract": "0xfa350eb6c37839d55a853e4ffe2553e90e454c8c",
+      "image": "/data/topps/gpk/images/Airdrop_Angel.webp",
+      "slug": "airdrop-angel",
+      "set": "2022 Topps GPK Non-Flushable Tokens",
+      "total_minted": 75
+    }
+  ],
+  "0x50d35a9645c0ce57abfc3875d55a6ef5912357ff": [
+    {
+      "character": "Airdrop Angel",
+      "rarity": "rare",
+      "contract": "0x50d35a9645c0ce57abfc3875d55a6ef5912357ff",
+      "image": "/data/topps/gpk/images/Airdrop_Angel.webp",
+      "slug": "airdrop-angel",
+      "set": "2022 Topps GPK Non-Flushable Tokens",
+      "total_minted": 50
+    }
+  ],
+  "0x4dbda803b422f2f69bb1ae720c1be83d5dfa6679": [
+    {
+      "character": "Airdrop Angel",
+      "rarity": "super rare",
+      "contract": "0x4dbda803b422f2f69bb1ae720c1be83d5dfa6679",
+      "image": "/data/topps/gpk/images/Airdrop_Angel.webp",
+      "slug": "airdrop-angel",
+      "set": "2022 Topps GPK Non-Flushable Tokens",
+      "total_minted": 25
+    }
+  ],
+  "0xb512407a6802c0211a15a144607604ad78997042": [
+    {
+      "character": "Airdrop Angel",
+      "rarity": "epic",
+      "contract": "0xb512407a6802c0211a15a144607604ad78997042",
+      "image": "/data/topps/gpk/images/Airdrop_Angel.webp",
+      "slug": "airdrop-angel",
+      "set": "2022 Topps GPK Non-Flushable Tokens",
+      "total_minted": 10
+    }
+  ],
+  "0x7b2a5722a1c12f96a88838e86c6d1d184dbc8998": [
+    {
+      "character": "Airdrop Angel",
+      "rarity": "legendary",
+      "contract": "0x7b2a5722a1c12f96a88838e86c6d1d184dbc8998",
+      "image": "/data/topps/gpk/images/Airdrop_Angel.webp",
+      "slug": "airdrop-angel",
+      "set": "2022 Topps GPK Non-Flushable Tokens",
+      "total_minted": 5
+    }
+  ],
+  "0x68f003c0c40ca03514018c2b18a90384e9eeeb5f": [
+    {
+      "character": "Maya Mask",
+      "rarity": "common",
+      "contract": "0x68f003c0c40ca03514018c2b18a90384e9eeeb5f",
+      "image": "/data/topps/gpk/images/Maya_Mask.webp",
+      "slug": "maya-mask",
+      "set": "2022 Topps GPK Non-Flushable Tokens",
+      "total_minted": 120
+    }
+  ],
+  "0xab8a7f03b1356db75787556628e78dcabb2fa478": [
+    {
+      "character": "Maya Mask",
+      "rarity": "uncommon",
+      "contract": "0xab8a7f03b1356db75787556628e78dcabb2fa478",
+      "image": "/data/topps/gpk/images/Maya_Mask.webp",
+      "slug": "maya-mask",
+      "set": "2022 Topps GPK Non-Flushable Tokens",
+      "total_minted": 75
+    }
+  ],
+  "0x42bea80daac2918477d1865378d09d2224c72ded": [
+    {
+      "character": "Maya Mask",
+      "rarity": "rare",
+      "contract": "0x42bea80daac2918477d1865378d09d2224c72ded",
+      "image": "/data/topps/gpk/images/Maya_Mask.webp",
+      "slug": "maya-mask",
+      "set": "2022 Topps GPK Non-Flushable Tokens",
+      "total_minted": 50
+    }
+  ],
+  "0x30ada7fba9fb273ecc6e3a7896b1156e835c7d1f": [
+    {
+      "character": "Maya Mask",
+      "rarity": "super rare",
+      "contract": "0x30ada7fba9fb273ecc6e3a7896b1156e835c7d1f",
+      "image": "/data/topps/gpk/images/Maya_Mask.webp",
+      "slug": "maya-mask",
+      "set": "2022 Topps GPK Non-Flushable Tokens",
+      "total_minted": 25
+    }
+  ],
+  "0x80042a5f8f92042856e976afc208180e7eaf9edd": [
+    {
+      "character": "Maya Mask",
+      "rarity": "epic",
+      "contract": "0x80042a5f8f92042856e976afc208180e7eaf9edd",
+      "image": "/data/topps/gpk/images/Maya_Mask.webp",
+      "slug": "maya-mask",
+      "set": "2022 Topps GPK Non-Flushable Tokens",
+      "total_minted": 10
+    }
+  ],
+  "0xf421538d540e97481c26d113df77142beea922d1": [
+    {
+      "character": "Maya Mask",
+      "rarity": "legendary",
+      "contract": "0xf421538d540e97481c26d113df77142beea922d1",
+      "image": "/data/topps/gpk/images/Maya_Mask.webp",
+      "slug": "maya-mask",
+      "set": "2022 Topps GPK Non-Flushable Tokens",
+      "total_minted": 5
+    }
+  ],
+  "0x70d9f87f7fdaa874eea1ac1d1b4de08de90ae002": [
+    {
+      "character": "Bridget Troll",
+      "rarity": "common",
+      "contract": "0x70d9f87f7fdaa874eea1ac1d1b4de08de90ae002",
+      "image": "/data/topps/gpk/images/Bridget_Troll.webp",
+      "slug": "bridget-troll",
+      "set": "2022 Topps GPK Non-Flushable Tokens",
+      "total_minted": 120
+    }
+  ],
+  "0xbf65ca5263bb1b2cc531c398effdde11996e8afd": [
+    {
+      "character": "Bridget Troll",
+      "rarity": "uncommon",
+      "contract": "0xbf65ca5263bb1b2cc531c398effdde11996e8afd",
+      "image": "/data/topps/gpk/images/Bridget_Troll.webp",
+      "slug": "bridget-troll",
+      "set": "2022 Topps GPK Non-Flushable Tokens",
+      "total_minted": 75
+    }
+  ],
+  "0xad957ea23f67c0e1fbaa99d2768e27d82a86fbf7": [
+    {
+      "character": "Bridget Troll",
+      "rarity": "rare",
+      "contract": "0xad957ea23f67c0e1fbaa99d2768e27d82a86fbf7",
+      "image": "/data/topps/gpk/images/Bridget_Troll.webp",
+      "slug": "bridget-troll",
+      "set": "2022 Topps GPK Non-Flushable Tokens",
+      "total_minted": 50
+    }
+  ],
+  "0x8624212339f38f0106587ced6d4343fb7e8f4d0b": [
+    {
+      "character": "Bridget Troll",
+      "rarity": "super rare",
+      "contract": "0x8624212339f38f0106587ced6d4343fb7e8f4d0b",
+      "image": "/data/topps/gpk/images/Bridget_Troll.webp",
+      "slug": "bridget-troll",
+      "set": "2022 Topps GPK Non-Flushable Tokens",
+      "total_minted": 25
+    }
+  ],
+  "0xe22530d0c81a68afdb6af03ff5296faffb669b9d": [
+    {
+      "character": "Bridget Troll",
+      "rarity": "epic",
+      "contract": "0xe22530d0c81a68afdb6af03ff5296faffb669b9d",
+      "image": "/data/topps/gpk/images/Bridget_Troll.webp",
+      "slug": "bridget-troll",
+      "set": "2022 Topps GPK Non-Flushable Tokens",
+      "total_minted": 10
+    }
+  ],
+  "0xd1669ae92464de37b37ce48b761de81b39be2d50": [
+    {
+      "character": "Bridget Troll",
+      "rarity": "legendary",
+      "contract": "0xd1669ae92464de37b37ce48b761de81b39be2d50",
+      "image": "/data/topps/gpk/images/Bridget_Troll.webp",
+      "slug": "bridget-troll",
+      "set": "2022 Topps GPK Non-Flushable Tokens",
+      "total_minted": 5
+    }
+  ],
+  "0x6a59f25d6bc8ada7a20534048c2846864fb0223a": [
+    {
+      "character": "Hodor the HODLer",
+      "rarity": "common",
+      "contract": "0x6a59f25d6bc8ada7a20534048c2846864fb0223a",
+      "image": "/data/topps/gpk/images/Hodor_the_HODLer.webp",
+      "slug": "hodor-the-hodler",
+      "set": "2022 Topps GPK Non-Flushable Tokens",
+      "total_minted": 120
+    }
+  ],
+  "0xa5b3bba52e1e1fdb2e0f23d972cfe292a29f78eb": [
+    {
+      "character": "Hodor the HODLer",
+      "rarity": "uncommon",
+      "contract": "0xa5b3bba52e1e1fdb2e0f23d972cfe292a29f78eb",
+      "image": "/data/topps/gpk/images/Hodor_the_HODLer.webp",
+      "slug": "hodor-the-hodler",
+      "set": "2022 Topps GPK Non-Flushable Tokens",
+      "total_minted": 75
+    }
+  ],
+  "0xd5b76b9e7ea0d7e969dd6c517e6e9f6baa736d6f": [
+    {
+      "character": "Hodor the HODLer",
+      "rarity": "rare",
+      "contract": "0xd5b76b9e7ea0d7e969dd6c517e6e9f6baa736d6f",
+      "image": "/data/topps/gpk/images/Hodor_the_HODLer.webp",
+      "slug": "hodor-the-hodler",
+      "set": "2022 Topps GPK Non-Flushable Tokens",
+      "total_minted": 50
+    }
+  ],
+  "0x80c82d4dc7f449ba7ca8ec152896569cdfd1c0a7": [
+    {
+      "character": "Hodor the HODLer",
+      "rarity": "super rare",
+      "contract": "0x80c82d4dc7f449ba7ca8ec152896569cdfd1c0a7",
+      "image": "/data/topps/gpk/images/Hodor_the_HODLer.webp",
+      "slug": "hodor-the-hodler",
+      "set": "2022 Topps GPK Non-Flushable Tokens",
+      "total_minted": 25
+    }
+  ],
+  "0x6027e2d2b48d7579448df057fbbcd9632ece3931": [
+    {
+      "character": "Hodor the HODLer",
+      "rarity": "epic",
+      "contract": "0x6027e2d2b48d7579448df057fbbcd9632ece3931",
+      "image": "/data/topps/gpk/images/Hodor_the_HODLer.webp",
+      "slug": "hodor-the-hodler",
+      "set": "2022 Topps GPK Non-Flushable Tokens",
+      "total_minted": 10
+    }
+  ],
+  "0x36b22dc41531078cf6ecd7ffa8c7ba1a8c3b8908": [
+    {
+      "character": "Hodor the HODLer",
+      "rarity": "legendary",
+      "contract": "0x36b22dc41531078cf6ecd7ffa8c7ba1a8c3b8908",
+      "image": "/data/topps/gpk/images/Hodor_the_HODLer.webp",
+      "slug": "hodor-the-hodler",
+      "set": "2022 Topps GPK Non-Flushable Tokens",
+      "total_minted": 5
+    }
+  ],
+  "0x4c339a855777561632921e188c5d7e16aeda56ad": [
+    {
+      "character": "Paper Hans",
+      "rarity": "common",
+      "contract": "0x4c339a855777561632921e188c5d7e16aeda56ad",
+      "image": "/data/topps/gpk/images/Paper_Hans.webp",
+      "slug": "paper-hans",
+      "set": "2022 Topps GPK Non-Flushable Tokens",
+      "total_minted": 120
+    }
+  ],
+  "0xeb6b1e9964d7fc25b4cdd5fa3740e894777c1495": [
+    {
+      "character": "Paper Hans",
+      "rarity": "uncommon",
+      "contract": "0xeb6b1e9964d7fc25b4cdd5fa3740e894777c1495",
+      "image": "/data/topps/gpk/images/Paper_Hans.webp",
+      "slug": "paper-hans",
+      "set": "2022 Topps GPK Non-Flushable Tokens",
+      "total_minted": 75
+    }
+  ],
+  "0xe7d9dce53d52dd9d198d9d46c0e26d9c1938302e": [
+    {
+      "character": "Paper Hans",
+      "rarity": "rare",
+      "contract": "0xe7d9dce53d52dd9d198d9d46c0e26d9c1938302e",
+      "image": "/data/topps/gpk/images/Paper_Hans.webp",
+      "slug": "paper-hans",
+      "set": "2022 Topps GPK Non-Flushable Tokens",
+      "total_minted": 50
+    }
+  ],
+  "0x53eb6f6df6dc66d26997a122fd5108cbef99785d": [
+    {
+      "character": "Paper Hans",
+      "rarity": "super rare",
+      "contract": "0x53eb6f6df6dc66d26997a122fd5108cbef99785d",
+      "image": "/data/topps/gpk/images/Paper_Hans.webp",
+      "slug": "paper-hans",
+      "set": "2022 Topps GPK Non-Flushable Tokens",
+      "total_minted": 25
+    }
+  ],
+  "0x25ee132f3059ae34a5ee05fd60260fa034ae405c": [
+    {
+      "character": "Paper Hans",
+      "rarity": "epic",
+      "contract": "0x25ee132f3059ae34a5ee05fd60260fa034ae405c",
+      "image": "/data/topps/gpk/images/Paper_Hans.webp",
+      "slug": "paper-hans",
+      "set": "2022 Topps GPK Non-Flushable Tokens",
+      "total_minted": 10
+    }
+  ],
+  "0xef2eb0628df206b1682d30d79902ca595dbb5fa1": [
+    {
+      "character": "Paper Hans",
+      "rarity": "legendary",
+      "contract": "0xef2eb0628df206b1682d30d79902ca595dbb5fa1",
+      "image": "/data/topps/gpk/images/Paper_Hans.webp",
+      "slug": "paper-hans",
+      "set": "2022 Topps GPK Non-Flushable Tokens",
+      "total_minted": 5
+    }
+  ],
+  "0x757e80ac4aa2ba47d5bdfdbee04c93b5dba8bfcf": [
+    {
+      "character": "Diamond Hans",
+      "rarity": "common",
+      "contract": "0x757e80ac4aa2ba47d5bdfdbee04c93b5dba8bfcf",
+      "image": "/data/topps/gpk/images/Diamond_Hans.webp",
+      "slug": "diamond-hans",
+      "set": "2022 Topps GPK Non-Flushable Tokens",
+      "total_minted": 120
+    }
+  ],
+  "0x43ed266859d417ea59ca01a1aeb0e3abc0e58609": [
+    {
+      "character": "Diamond Hans",
+      "rarity": "uncommon",
+      "contract": "0x43ed266859d417ea59ca01a1aeb0e3abc0e58609",
+      "image": "/data/topps/gpk/images/Diamond_Hans.webp",
+      "slug": "diamond-hans",
+      "set": "2022 Topps GPK Non-Flushable Tokens",
+      "total_minted": 75
+    }
+  ],
+  "0x7ead6f59d5ee974689bf0c836b284ea165788c63": [
+    {
+      "character": "Diamond Hans",
+      "rarity": "rare",
+      "contract": "0x7ead6f59d5ee974689bf0c836b284ea165788c63",
+      "image": "/data/topps/gpk/images/Diamond_Hans.webp",
+      "slug": "diamond-hans",
+      "set": "2022 Topps GPK Non-Flushable Tokens",
+      "total_minted": 50
+    }
+  ],
+  "0x96bc579555720b1d2454e66a1c2ccbca188e0b71": [
+    {
+      "character": "Diamond Hans",
+      "rarity": "super rare",
+      "contract": "0x96bc579555720b1d2454e66a1c2ccbca188e0b71",
+      "image": "/data/topps/gpk/images/Diamond_Hans.webp",
+      "slug": "diamond-hans",
+      "set": "2022 Topps GPK Non-Flushable Tokens",
+      "total_minted": 25
+    }
+  ],
+  "0x17d2c7ae8c66e58fab185ba8b59895d1381f2781": [
+    {
+      "character": "Diamond Hans",
+      "rarity": "epic",
+      "contract": "0x17d2c7ae8c66e58fab185ba8b59895d1381f2781",
+      "image": "/data/topps/gpk/images/Diamond_Hans.webp",
+      "slug": "diamond-hans",
+      "set": "2022 Topps GPK Non-Flushable Tokens",
+      "total_minted": 10
+    }
+  ],
+  "0xd3f201cd996085928e79ed9bff7220454b383429": [
+    {
+      "character": "Diamond Hans",
+      "rarity": "legendary",
+      "contract": "0xd3f201cd996085928e79ed9bff7220454b383429",
+      "image": "/data/topps/gpk/images/Diamond_Hans.webp",
+      "slug": "diamond-hans",
+      "set": "2022 Topps GPK Non-Flushable Tokens",
+      "total_minted": 5
+    }
+  ],
+  "0x53d8cb8690c79a7c5b087b6ad4a3c1a06810dc11": [
+    {
+      "character": "Proof-of-Steak",
+      "rarity": "common",
+      "contract": "0x53d8cb8690c79a7c5b087b6ad4a3c1a06810dc11",
+      "image": "/data/topps/gpk/images/Proof-of-Steak.webp",
+      "slug": "proof-of-steak",
+      "set": "2022 Topps GPK Non-Flushable Tokens",
+      "total_minted": 120
+    }
+  ],
+  "0x4b9c6f62fabd6feb29b93d1ce061d0fb526ad01b": [
+    {
+      "character": "Proof-of-Steak",
+      "rarity": "uncommon",
+      "contract": "0x4b9c6f62fabd6feb29b93d1ce061d0fb526ad01b",
+      "image": "/data/topps/gpk/images/Proof-of-Steak.webp",
+      "slug": "proof-of-steak",
+      "set": "2022 Topps GPK Non-Flushable Tokens",
+      "total_minted": 75
+    }
+  ],
+  "0x6cb44aed59bbaafb65620a4c9870feb72aad07d5": [
+    {
+      "character": "Proof-of-Steak",
+      "rarity": "rare",
+      "contract": "0x6cb44aed59bbaafb65620a4c9870feb72aad07d5",
+      "image": "/data/topps/gpk/images/Proof-of-Steak.webp",
+      "slug": "proof-of-steak",
+      "set": "2022 Topps GPK Non-Flushable Tokens",
+      "total_minted": 50
+    }
+  ],
+  "0x4f947c7059c542673bfe428d9b00cfb44105d33a": [
+    {
+      "character": "Proof-of-Steak",
+      "rarity": "super rare",
+      "contract": "0x4f947c7059c542673bfe428d9b00cfb44105d33a",
+      "image": "/data/topps/gpk/images/Proof-of-Steak.webp",
+      "slug": "proof-of-steak",
+      "set": "2022 Topps GPK Non-Flushable Tokens",
+      "total_minted": 25
+    }
+  ],
+  "0xe033965ec8babce40ff25d55c192c427e9533749": [
+    {
+      "character": "Proof-of-Steak",
+      "rarity": "epic",
+      "contract": "0xe033965ec8babce40ff25d55c192c427e9533749",
+      "image": "/data/topps/gpk/images/Proof-of-Steak.webp",
+      "slug": "proof-of-steak",
+      "set": "2022 Topps GPK Non-Flushable Tokens",
+      "total_minted": 10
+    }
+  ],
+  "0xc96dcffc4797f595d65a6d4cffb5a63afbabde53": [
+    {
+      "character": "Proof-of-Steak",
+      "rarity": "legendary",
+      "contract": "0xc96dcffc4797f595d65a6d4cffb5a63afbabde53",
+      "image": "/data/topps/gpk/images/Proof-of-Steak.webp",
+      "slug": "proof-of-steak",
+      "set": "2022 Topps GPK Non-Flushable Tokens",
+      "total_minted": 5
+    }
+  ],
+  "0x568076d558b5c64a7a3b75c1ac3d1006c15e7c22": [
+    {
+      "character": "Crystal Winter",
+      "rarity": "common",
+      "contract": "0x568076d558b5c64a7a3b75c1ac3d1006c15e7c22",
+      "image": "/data/topps/gpk/images/Crystal_Winter.webp",
+      "slug": "crystal-winter",
+      "set": "2022 Topps GPK Non-Flushable Tokens",
+      "total_minted": 120
+    }
+  ],
+  "0xb020a2a8c93a7044466f29bb820bbc445a6baa96": [
+    {
+      "character": "Crystal Winter",
+      "rarity": "uncommon",
+      "contract": "0xb020a2a8c93a7044466f29bb820bbc445a6baa96",
+      "image": "/data/topps/gpk/images/Crystal_Winter.webp",
+      "slug": "crystal-winter",
+      "set": "2022 Topps GPK Non-Flushable Tokens",
+      "total_minted": 75
+    }
+  ],
+  "0x32d961a6e1742630c2089b204c4a813d3d05d583": [
+    {
+      "character": "Crystal Winter",
+      "rarity": "rare",
+      "contract": "0x32d961a6e1742630c2089b204c4a813d3d05d583",
+      "image": "/data/topps/gpk/images/Crystal_Winter.webp",
+      "slug": "crystal-winter",
+      "set": "2022 Topps GPK Non-Flushable Tokens",
+      "total_minted": 50
+    }
+  ],
+  "0x7eb9a45ce649c02c843bac9c84dcc0b9661734be": [
+    {
+      "character": "Crystal Winter",
+      "rarity": "super rare",
+      "contract": "0x7eb9a45ce649c02c843bac9c84dcc0b9661734be",
+      "image": "/data/topps/gpk/images/Crystal_Winter.webp",
+      "slug": "crystal-winter",
+      "set": "2022 Topps GPK Non-Flushable Tokens",
+      "total_minted": 25
+    }
+  ],
+  "0x4f54dca4bdeb7e5ca105655101c80fdeb732aaa2": [
+    {
+      "character": "Crystal Winter",
+      "rarity": "epic",
+      "contract": "0x4f54dca4bdeb7e5ca105655101c80fdeb732aaa2",
+      "image": "/data/topps/gpk/images/Crystal_Winter.webp",
+      "slug": "crystal-winter",
+      "set": "2022 Topps GPK Non-Flushable Tokens",
+      "total_minted": 10
+    }
+  ],
+  "0x0973170755c61db272fb836a44dbc940c5b1cc12": [
+    {
+      "character": "Crystal Winter",
+      "rarity": "legendary",
+      "contract": "0x0973170755c61db272fb836a44dbc940c5b1cc12",
+      "image": "/data/topps/gpk/images/Crystal_Winter.webp",
+      "slug": "crystal-winter",
+      "set": "2022 Topps GPK Non-Flushable Tokens",
+      "total_minted": 5
+    }
+  ],
+  "0xb218d371b0bdf9cd633462924e86c77cab5c1622": [
+    {
+      "character": "Sproutcoin Spring",
+      "rarity": "common",
+      "contract": "0xb218d371b0bdf9cd633462924e86c77cab5c1622",
+      "image": "/data/topps/gpk/images/Sproutcoin_Spring.webp",
+      "slug": "sproutcoin-spring",
+      "set": "2022 Topps GPK Non-Flushable Tokens",
+      "total_minted": 120
+    }
+  ],
+  "0x70d038489d6317b4b028103ba449c5afc0c61873": [
+    {
+      "character": "Sproutcoin Spring",
+      "rarity": "uncommon",
+      "contract": "0x70d038489d6317b4b028103ba449c5afc0c61873",
+      "image": "/data/topps/gpk/images/Sproutcoin_Spring.webp",
+      "slug": "sproutcoin-spring",
+      "set": "2022 Topps GPK Non-Flushable Tokens",
+      "total_minted": 75
+    }
+  ],
+  "0x516b40f57227c30deda008a7ae41ccc529f680b6": [
+    {
+      "character": "Sproutcoin Spring",
+      "rarity": "rare",
+      "contract": "0x516b40f57227c30deda008a7ae41ccc529f680b6",
+      "image": "/data/topps/gpk/images/Sproutcoin_Spring.webp",
+      "slug": "sproutcoin-spring",
+      "set": "2022 Topps GPK Non-Flushable Tokens",
+      "total_minted": 50
+    }
+  ],
+  "0xf0fc35818063daa7ac44f01aa55c277e5b787964": [
+    {
+      "character": "Sproutcoin Spring",
+      "rarity": "super rare",
+      "contract": "0xf0fc35818063daa7ac44f01aa55c277e5b787964",
+      "image": "/data/topps/gpk/images/Sproutcoin_Spring.webp",
+      "slug": "sproutcoin-spring",
+      "set": "2022 Topps GPK Non-Flushable Tokens",
+      "total_minted": 25
+    }
+  ],
+  "0xdba1b179fcc7fa4192c1d5c37434718256a27b20": [
+    {
+      "character": "Sproutcoin Spring",
+      "rarity": "epic",
+      "contract": "0xdba1b179fcc7fa4192c1d5c37434718256a27b20",
+      "image": "/data/topps/gpk/images/Sproutcoin_Spring.webp",
+      "slug": "sproutcoin-spring",
+      "set": "2022 Topps GPK Non-Flushable Tokens",
+      "total_minted": 10
+    }
+  ],
+  "0xe2dbd8aaf213e8f111a82888b965b3f77cce3cc8": [
+    {
+      "character": "Sproutcoin Spring",
+      "rarity": "legendary",
+      "contract": "0xe2dbd8aaf213e8f111a82888b965b3f77cce3cc8",
+      "image": "/data/topps/gpk/images/Sproutcoin_Spring.webp",
+      "slug": "sproutcoin-spring",
+      "set": "2022 Topps GPK Non-Flushable Tokens",
+      "total_minted": 5
+    }
+  ],
+  "0x78b1281fc6a6c6cc192407aa71abf9afa6deaf3c": [
+    {
+      "character": "Hot Coin Summer",
+      "rarity": "common",
+      "contract": "0x78b1281fc6a6c6cc192407aa71abf9afa6deaf3c",
+      "image": "/data/topps/gpk/images/Hot_Coin_Summer.webp",
+      "slug": "hot-coin-summer",
+      "set": "2022 Topps GPK Non-Flushable Tokens",
+      "total_minted": 120
+    }
+  ],
+  "0x70e00a0603fb693d504d82c1c1ea2c3d789add4b": [
+    {
+      "character": "Hot Coin Summer",
+      "rarity": "uncommon",
+      "contract": "0x70e00a0603fb693d504d82c1c1ea2c3d789add4b",
+      "image": "/data/topps/gpk/images/Hot_Coin_Summer.webp",
+      "slug": "hot-coin-summer",
+      "set": "2022 Topps GPK Non-Flushable Tokens",
+      "total_minted": 75
+    },
+    {
+      "character": "Hot Coin Summer",
+      "rarity": "rare",
+      "contract": "0x70e00a0603fb693d504d82c1c1ea2c3d789add4b",
+      "image": "/data/topps/gpk/images/Hot_Coin_Summer.webp",
+      "slug": "hot-coin-summer",
+      "set": "2022 Topps GPK Non-Flushable Tokens",
+      "total_minted": 50
+    }
+  ],
+  "0xb3a460ac194f8413a43b56efb6e1fdc6fae97922": [
+    {
+      "character": "Hot Coin Summer",
+      "rarity": "super rare",
+      "contract": "0xb3a460ac194f8413a43b56efb6e1fdc6fae97922",
+      "image": "/data/topps/gpk/images/Hot_Coin_Summer.webp",
+      "slug": "hot-coin-summer",
+      "set": "2022 Topps GPK Non-Flushable Tokens",
+      "total_minted": 25
+    }
+  ],
+  "0xa5839788a50a0300ba9ac3d4ed3a4fa0230cf19c": [
+    {
+      "character": "Hot Coin Summer",
+      "rarity": "epic",
+      "contract": "0xa5839788a50a0300ba9ac3d4ed3a4fa0230cf19c",
+      "image": "/data/topps/gpk/images/Hot_Coin_Summer.webp",
+      "slug": "hot-coin-summer",
+      "set": "2022 Topps GPK Non-Flushable Tokens",
+      "total_minted": 10
+    }
+  ],
+  "0xf419b4849712055e955e089dccb7b3d8f46c56da": [
+    {
+      "character": "Hot Coin Summer",
+      "rarity": "legendary",
+      "contract": "0xf419b4849712055e955e089dccb7b3d8f46c56da",
+      "image": "/data/topps/gpk/images/Hot_Coin_Summer.webp",
+      "slug": "hot-coin-summer",
+      "set": "2022 Topps GPK Non-Flushable Tokens",
+      "total_minted": 5
+    }
+  ],
+  "0x071394f3c85845132e2041af6e71251ce52bb929": [
+    {
+      "character": "Faith Fall",
+      "rarity": "common",
+      "contract": "0x071394f3c85845132e2041af6e71251ce52bb929",
+      "image": "/data/topps/gpk/images/Faith_Fall.webp",
+      "slug": "faith-fall",
+      "set": "2022 Topps GPK Non-Flushable Tokens",
+      "total_minted": 120
+    }
+  ],
+  "0x913cc1d868ae02b5c858ecc18941c5f35c6c437d": [
+    {
+      "character": "Faith Fall",
+      "rarity": "uncommon",
+      "contract": "0x913cc1d868ae02b5c858ecc18941c5f35c6c437d",
+      "image": "/data/topps/gpk/images/Faith_Fall.webp",
+      "slug": "faith-fall",
+      "set": "2022 Topps GPK Non-Flushable Tokens",
+      "total_minted": 75
+    }
+  ],
+  "0x30cbe941279a3f2576bb02364fd847a748d9fe45": [
+    {
+      "character": "Faith Fall",
+      "rarity": "rare",
+      "contract": "0x30cbe941279a3f2576bb02364fd847a748d9fe45",
+      "image": "/data/topps/gpk/images/Faith_Fall.webp",
+      "slug": "faith-fall",
+      "set": "2022 Topps GPK Non-Flushable Tokens",
+      "total_minted": 50
+    }
+  ],
+  "0x65d325d3e4d7ec9e92388b8fe9fe597c861727ab": [
+    {
+      "character": "Faith Fall",
+      "rarity": "super rare",
+      "contract": "0x65d325d3e4d7ec9e92388b8fe9fe597c861727ab",
+      "image": "/data/topps/gpk/images/Faith_Fall.webp",
+      "slug": "faith-fall",
+      "set": "2022 Topps GPK Non-Flushable Tokens",
+      "total_minted": 25
+    }
+  ],
+  "0x4b7110ee38c2ab066057fe819c8d5e45753cbe1e": [
+    {
+      "character": "Faith Fall",
+      "rarity": "epic",
+      "contract": "0x4b7110ee38c2ab066057fe819c8d5e45753cbe1e",
+      "image": "/data/topps/gpk/images/Faith_Fall.webp",
+      "slug": "faith-fall",
+      "set": "2022 Topps GPK Non-Flushable Tokens",
+      "total_minted": 10
+    }
+  ],
+  "0x97ac159e6e599f44f4c4fee2dcba580accebff1b": [
+    {
+      "character": "Faith Fall",
+      "rarity": "legendary",
+      "contract": "0x97ac159e6e599f44f4c4fee2dcba580accebff1b",
+      "image": "/data/topps/gpk/images/Faith_Fall.webp",
+      "slug": "faith-fall",
+      "set": "2022 Topps GPK Non-Flushable Tokens",
+      "total_minted": 5
+    }
+  ],
+  "0xa6dbeabcd412839e0f28ad5ab1c73f2cab15db92": [
+    {
+      "character": "Split Hans",
+      "rarity": "common",
+      "contract": "0xa6dbeabcd412839e0f28ad5ab1c73f2cab15db92",
+      "image": "/data/topps/gpk/images/Split_Hans.webp",
+      "slug": "split-hans",
+      "set": "2022 Topps GPK Non-Flushable Tokens Challenge Rewards",
+      "total_minted": 120
+    }
+  ],
+  "0xdaee15c27fa1ff24a60c1fd6e6ca8f6e300773a6": [
+    {
+      "character": "Split Hans",
+      "rarity": "uncommon",
+      "contract": "0xdaee15c27fa1ff24a60c1fd6e6ca8f6e300773a6",
+      "image": "/data/topps/gpk/images/Split_Hans.webp",
+      "slug": "split-hans",
+      "set": "2022 Topps GPK Non-Flushable Tokens Challenge Rewards",
+      "total_minted": 75
+    }
+  ],
+  "0x15fcf4458ba5808cbfcf80801bd7956c5b2e5537": [
+    {
+      "character": "Split Hans",
+      "rarity": "rare",
+      "contract": "0x15fcf4458ba5808cbfcf80801bd7956c5b2e5537",
+      "image": "/data/topps/gpk/images/Split_Hans.webp",
+      "slug": "split-hans",
+      "set": "2022 Topps GPK Non-Flushable Tokens Challenge Rewards",
+      "total_minted": 50
+    }
+  ],
+  "0x051b2a2dc203c75d7e4406d3a8669c52b967fee0": [
+    {
+      "character": "Split Hans",
+      "rarity": "super rare",
+      "contract": "0x051b2a2dc203c75d7e4406d3a8669c52b967fee0",
+      "image": "/data/topps/gpk/images/Split_Hans.webp",
+      "slug": "split-hans",
+      "set": "2022 Topps GPK Non-Flushable Tokens Challenge Rewards",
+      "total_minted": 25
+    }
+  ],
+  "0x0818025f087a2a54afc2e3842c0f4b16a68906ca": [
+    {
+      "character": "Split Hans",
+      "rarity": "epic",
+      "contract": "0x0818025f087a2a54afc2e3842c0f4b16a68906ca",
+      "image": "/data/topps/gpk/images/Split_Hans.webp",
+      "slug": "split-hans",
+      "set": "2022 Topps GPK Non-Flushable Tokens Challenge Rewards",
+      "total_minted": 10
+    }
+  ],
+  "0x092f62c8ad009ef245c477ca08521813e4195b23": [
+    {
+      "character": "Split Hans",
+      "rarity": "legendary",
+      "contract": "0x092f62c8ad009ef245c477ca08521813e4195b23",
+      "image": "/data/topps/gpk/images/Split_Hans.webp",
+      "slug": "split-hans",
+      "set": "2022 Topps GPK Non-Flushable Tokens Challenge Rewards",
+      "total_minted": 5
+    }
+  ],
+  "0x8c173d05bfe646c447a37628330e040ab9b12e74": [
+    {
+      "character": "Crypto Keeper",
+      "rarity": "common",
+      "contract": "0x8c173d05bfe646c447a37628330e040ab9b12e74",
+      "image": "/data/topps/gpk/images/Crypto_Keeper.webp",
+      "slug": "crypto-keeper",
+      "set": "2022 Topps GPK Non-Flushable Tokens Challenge Rewards",
+      "total_minted": 120
+    }
+  ],
+  "0xa7382cac930a25a5074ada318c779ec1ab1aa5ab": [
+    {
+      "character": "Crypto Keeper",
+      "rarity": "uncommon",
+      "contract": "0xa7382cac930a25a5074ada318c779ec1ab1aa5ab",
+      "image": "/data/topps/gpk/images/Crypto_Keeper.webp",
+      "slug": "crypto-keeper",
+      "set": "2022 Topps GPK Non-Flushable Tokens Challenge Rewards",
+      "total_minted": 75
+    }
+  ],
+  "0x54ce976df54dd3a5290f420298f08ef953acbcf8": [
+    {
+      "character": "Crypto Keeper",
+      "rarity": "rare",
+      "contract": "0x54ce976df54dd3a5290f420298f08ef953acbcf8",
+      "image": "/data/topps/gpk/images/Crypto_Keeper.webp",
+      "slug": "crypto-keeper",
+      "set": "2022 Topps GPK Non-Flushable Tokens Challenge Rewards",
+      "total_minted": 50
+    }
+  ],
+  "0x0dbdc8237170288fb1b77b1e366b1320a0b6768e": [
+    {
+      "character": "Crypto Keeper",
+      "rarity": "super rare",
+      "contract": "0x0dbdc8237170288fb1b77b1e366b1320a0b6768e",
+      "image": "/data/topps/gpk/images/Crypto_Keeper.webp",
+      "slug": "crypto-keeper",
+      "set": "2022 Topps GPK Non-Flushable Tokens Challenge Rewards",
+      "total_minted": 25
+    }
+  ],
+  "0x90a096beae661d987f148dfb057c095fc1b06f42": [
+    {
+      "character": "Crypto Keeper",
+      "rarity": "epic",
+      "contract": "0x90a096beae661d987f148dfb057c095fc1b06f42",
+      "image": "/data/topps/gpk/images/Crypto_Keeper.webp",
+      "slug": "crypto-keeper",
+      "set": "2022 Topps GPK Non-Flushable Tokens Challenge Rewards",
+      "total_minted": 10
+    }
+  ],
+  "0xf1cf7878e7e7441810f4538c604f59faeb8ff5d3": [
+    {
+      "character": "Crypto Keeper",
+      "rarity": "legendary",
+      "contract": "0xf1cf7878e7e7441810f4538c604f59faeb8ff5d3",
+      "image": "/data/topps/gpk/images/Crypto_Keeper.webp",
+      "slug": "crypto-keeper",
+      "set": "2022 Topps GPK Non-Flushable Tokens Challenge Rewards",
+      "total_minted": 5
+    }
+  ],
+  "0xdc0a96845731c5869488bc1bc5fd67b5c5cbbcba": [
+    {
+      "character": "BUILDing Bee",
+      "rarity": "common",
+      "contract": "0xdc0a96845731c5869488bc1bc5fd67b5c5cbbcba",
+      "image": "/data/topps/gpk/images/BUILDing_Bee.webp",
+      "slug": "building-bee",
+      "set": "2022 Topps GPK Non-Flushable Tokens Challenge Rewards",
+      "total_minted": 120
+    }
+  ],
+  "0x58cfc626fe3636c69a36f991771df9aadfaa49c2": [
+    {
+      "character": "BUILDing Bee",
+      "rarity": "uncommon",
+      "contract": "0x58cfc626fe3636c69a36f991771df9aadfaa49c2",
+      "image": "/data/topps/gpk/images/BUILDing_Bee.webp",
+      "slug": "building-bee",
+      "set": "2022 Topps GPK Non-Flushable Tokens Challenge Rewards",
+      "total_minted": 75
+    }
+  ],
+  "0x2556621d0a30711f076131c02c14fddbf1c98134": [
+    {
+      "character": "BUILDing Bee",
+      "rarity": "rare",
+      "contract": "0x2556621d0a30711f076131c02c14fddbf1c98134",
+      "image": "/data/topps/gpk/images/BUILDing_Bee.webp",
+      "slug": "building-bee",
+      "set": "2022 Topps GPK Non-Flushable Tokens Challenge Rewards",
+      "total_minted": 50
+    }
+  ],
+  "0x63a1c82c8573a0a05d5407e8be9386fa25dc17f8": [
+    {
+      "character": "BUILDing Bee",
+      "rarity": "super rare",
+      "contract": "0x63a1c82c8573a0a05d5407e8be9386fa25dc17f8",
+      "image": "/data/topps/gpk/images/BUILDing_Bee.webp",
+      "slug": "building-bee",
+      "set": "2022 Topps GPK Non-Flushable Tokens Challenge Rewards",
+      "total_minted": 25
+    }
+  ],
+  "0x4e9399719caa98df73dcb03a0d5e92467af60ee7": [
+    {
+      "character": "BUILDing Bee",
+      "rarity": "epic",
+      "contract": "0x4e9399719caa98df73dcb03a0d5e92467af60ee7",
+      "image": "/data/topps/gpk/images/BUILDing_Bee.webp",
+      "slug": "building-bee",
+      "set": "2022 Topps GPK Non-Flushable Tokens Challenge Rewards",
+      "total_minted": 10
+    }
+  ],
+  "0xbc4030a483c90df279cf0911a35fef92f412751e": [
+    {
+      "character": "BUILDing Bee",
+      "rarity": "legendary",
+      "contract": "0xbc4030a483c90df279cf0911a35fef92f412751e",
+      "image": "/data/topps/gpk/images/BUILDing_Bee.webp",
+      "slug": "building-bee",
+      "set": "2022 Topps GPK Non-Flushable Tokens Challenge Rewards",
+      "total_minted": 5
+    }
+  ],
+  "0x5f8bc4cf5b887d04a64474cde11b5586a5ab6008": [
+    {
+      "character": "DOGEing Elon",
+      "rarity": "common",
+      "contract": "0x5f8bc4cf5b887d04a64474cde11b5586a5ab6008",
+      "image": "/data/topps/gpk/images/DOGEing_Elon.webp",
+      "slug": "dogeing-elon",
+      "set": "2022 Topps GPK Non-Flushable Tokens Challenge Rewards",
+      "total_minted": 120
+    }
+  ],
+  "0x83ac5db15f53709b9434c96148bc63b182e6f6d6": [
+    {
+      "character": "DOGEing Elon",
+      "rarity": "uncommon",
+      "contract": "0x83ac5db15f53709b9434c96148bc63b182e6f6d6",
+      "image": "/data/topps/gpk/images/DOGEing_Elon.webp",
+      "slug": "dogeing-elon",
+      "set": "2022 Topps GPK Non-Flushable Tokens Challenge Rewards",
+      "total_minted": 75
+    }
+  ],
+  "0x8a615444490600dd2aa73fdf6d321edbb72e1a2a": [
+    {
+      "character": "DOGEing Elon",
+      "rarity": "rare",
+      "contract": "0x8a615444490600dd2aa73fdf6d321edbb72e1a2a",
+      "image": "/data/topps/gpk/images/DOGEing_Elon.webp",
+      "slug": "dogeing-elon",
+      "set": "2022 Topps GPK Non-Flushable Tokens Challenge Rewards",
+      "total_minted": 50
+    }
+  ],
+  "0xe3b4146e3301b378c9584c4a2aa882f19daf8779": [
+    {
+      "character": "DOGEing Elon",
+      "rarity": "super rare",
+      "contract": "0xe3b4146e3301b378c9584c4a2aa882f19daf8779",
+      "image": "/data/topps/gpk/images/DOGEing_Elon.webp",
+      "slug": "dogeing-elon",
+      "set": "2022 Topps GPK Non-Flushable Tokens Challenge Rewards",
+      "total_minted": 25
+    }
+  ],
+  "0x39c03bf8d1ac6e9d0f31b579635cdd6a80361449": [
+    {
+      "character": "DOGEing Elon",
+      "rarity": "epic",
+      "contract": "0x39c03bf8d1ac6e9d0f31b579635cdd6a80361449",
+      "image": "/data/topps/gpk/images/DOGEing_Elon.webp",
+      "slug": "dogeing-elon",
+      "set": "2022 Topps GPK Non-Flushable Tokens Challenge Rewards",
+      "total_minted": 10
+    }
+  ],
+  "0x53b4f7412ab433b3aa3f0f787d9e7b5f6c417e3a": [
+    {
+      "character": "DOGEing Elon",
+      "rarity": "legendary",
+      "contract": "0x53b4f7412ab433b3aa3f0f787d9e7b5f6c417e3a",
+      "image": "/data/topps/gpk/images/DOGEing_Elon.webp",
+      "slug": "dogeing-elon",
+      "set": "2022 Topps GPK Non-Flushable Tokens Challenge Rewards",
+      "total_minted": 5
+    }
+  ],
+  "0x1607dda7f973ae0033553da673b167466fed01ed": [
+    {
+      "character": "Crypto Pukes",
+      "rarity": "uncommon",
+      "contract": "0x1607dda7f973ae0033553da673b167466fed01ed",
+      "image": "/data/topps/gpk/images/Crypto_Pukes.webp",
+      "slug": "crypto-pukes",
+      "set": "2022 Topps GPK Non-Flushable Tokens Challenge Rewards",
+      "total_minted": 75
+    }
+  ],
+  "0x2796170b5e44d62cfde24220f40d6d0c5b7a133f": [
+    {
+      "character": "Crypto Pukes",
+      "rarity": "super rare",
+      "contract": "0x2796170b5e44d62cfde24220f40d6d0c5b7a133f",
+      "image": "/data/topps/gpk/images/Crypto_Pukes.webp",
+      "slug": "crypto-pukes",
+      "set": "2022 Topps GPK Non-Flushable Tokens Challenge Rewards",
+      "total_minted": 25
+    }
+  ],
+  "0xe37303a7993a9c76547ce227756a9bd08a9119eb": [
+    {
+      "character": "Crypto Pukes",
+      "rarity": "legendary",
+      "contract": "0xe37303a7993a9c76547ce227756a9bd08a9119eb",
+      "image": "/data/topps/gpk/images/Crypto_Pukes.webp",
+      "slug": "crypto-pukes",
+      "set": "2022 Topps GPK Non-Flushable Tokens Challenge Rewards",
+      "total_minted": 5
+    }
+  ],
+  "0x908f1b952fc7e75e2313e33283b624045ee42f01": [
+    {
+      "character": "FeRARI Frank",
+      "rarity": "uncommon",
+      "contract": "0x908f1b952fc7e75e2313e33283b624045ee42f01",
+      "image": "/data/topps/gpk/images/FeRARI_Frank.webp",
+      "slug": "ferari-frank",
+      "set": "2022 Topps GPK Non-Flushable Tokens Challenge Rewards",
+      "total_minted": 75
+    }
+  ],
+  "0x16c42ceb376785d50bc4779a8f26a863e8e594a9": [
+    {
+      "character": "FeRARI Frank",
+      "rarity": "super rare",
+      "contract": "0x16c42ceb376785d50bc4779a8f26a863e8e594a9",
+      "image": "/data/topps/gpk/images/FeRARI_Frank.webp",
+      "slug": "ferari-frank",
+      "set": "2022 Topps GPK Non-Flushable Tokens Challenge Rewards",
+      "total_minted": 25
+    }
+  ],
+  "0x054352492d25510c1ce03514f1d91262eed3ba13": [
+    {
+      "character": "FeRARI Frank",
+      "rarity": "legendary",
+      "contract": "0x054352492d25510c1ce03514f1d91262eed3ba13",
+      "image": "/data/topps/gpk/images/FeRARI_Frank.webp",
+      "slug": "ferari-frank",
+      "set": "2022 Topps GPK Non-Flushable Tokens Challenge Rewards",
+      "total_minted": 5
+    }
+  ],
+  "0x15ac4227dcb2fd5c5980580f6753706943467640": [
+    {
+      "character": "LUNA-Tic",
+      "rarity": "uncommon",
+      "contract": "0x15ac4227dcb2fd5c5980580f6753706943467640",
+      "image": "/data/topps/gpk/images/LUNA-Tic.webp",
+      "slug": "luna-tic",
+      "set": "2022 Topps GPK Non-Flushable Tokens Challenge Rewards",
+      "total_minted": 75
+    }
+  ],
+  "0x3d393bdbc89776f7a7afbf8e8ef5d9529488c322": [
+    {
+      "character": "LUNA-Tic",
+      "rarity": "super rare",
+      "contract": "0x3d393bdbc89776f7a7afbf8e8ef5d9529488c322",
+      "image": "/data/topps/gpk/images/LUNA-Tic.webp",
+      "slug": "luna-tic",
+      "set": "2022 Topps GPK Non-Flushable Tokens Challenge Rewards",
+      "total_minted": 25
+    }
+  ],
+  "0xd06da7f65cac015148eada4eab93f4eadc384f06": [
+    {
+      "character": "LUNA-Tic",
+      "rarity": "legendary",
+      "contract": "0xd06da7f65cac015148eada4eab93f4eadc384f06",
+      "image": "/data/topps/gpk/images/LUNA-Tic.webp",
+      "slug": "luna-tic",
+      "set": "2022 Topps GPK Non-Flushable Tokens Challenge Rewards",
+      "total_minted": 5
+    }
+  ],
+  "0x3fdc8011c5c1941b66d5992cbae0401b9d7e39e7": [
+    {
+      "character": "Airdrop Angel",
+      "rarity": "uncommon",
+      "contract": "0x3fdc8011c5c1941b66d5992cbae0401b9d7e39e7",
+      "image": "/data/topps/gpk/images/Airdrop_Angel.webp",
+      "slug": "airdrop-angel",
+      "set": "2022 Topps GPK Non-Flushable Tokens Challenge Rewards",
+      "total_minted": 75
+    }
+  ],
+  "0x9bc77a6592e156344f7dc72620e21c1ce1e69a70": [
+    {
+      "character": "Airdrop Angel",
+      "rarity": "super rare",
+      "contract": "0x9bc77a6592e156344f7dc72620e21c1ce1e69a70",
+      "image": "/data/topps/gpk/images/Airdrop_Angel.webp",
+      "slug": "airdrop-angel",
+      "set": "2022 Topps GPK Non-Flushable Tokens Challenge Rewards",
+      "total_minted": 25
+    },
+    {
+      "character": "Airdrop Angel",
+      "rarity": "legendary",
+      "contract": "0x9bc77a6592e156344f7dc72620e21c1ce1e69a70",
+      "image": "/data/topps/gpk/images/Airdrop_Angel.webp",
+      "slug": "airdrop-angel",
+      "set": "2022 Topps GPK Non-Flushable Tokens Challenge Rewards",
+      "total_minted": 5
+    }
+  ],
+  "0xb045759b5d3c8ec959518b798d103da6012e35bb": [
+    {
+      "character": "Maya Mask",
+      "rarity": "uncommon",
+      "contract": "0xb045759b5d3c8ec959518b798d103da6012e35bb",
+      "image": "/data/topps/gpk/images/Maya_Mask.webp",
+      "slug": "maya-mask",
+      "set": "2022 Topps GPK Non-Flushable Tokens Challenge Rewards",
+      "total_minted": 75
+    }
+  ],
+  "0xbda5a3a7e3bd097bd0a0a4354ef460f04de3b3e0": [
+    {
+      "character": "Maya Mask",
+      "rarity": "super rare",
+      "contract": "0xbda5a3a7e3bd097bd0a0a4354ef460f04de3b3e0",
+      "image": "/data/topps/gpk/images/Maya_Mask.webp",
+      "slug": "maya-mask",
+      "set": "2022 Topps GPK Non-Flushable Tokens Challenge Rewards",
+      "total_minted": 25
+    }
+  ],
+  "0x45479e027e3fe5dd558e39b0ad7c9ec7e0400bc1": [
+    {
+      "character": "Maya Mask",
+      "rarity": "legendary",
+      "contract": "0x45479e027e3fe5dd558e39b0ad7c9ec7e0400bc1",
+      "image": "/data/topps/gpk/images/Maya_Mask.webp",
+      "slug": "maya-mask",
+      "set": "2022 Topps GPK Non-Flushable Tokens Challenge Rewards",
+      "total_minted": 5
+    }
+  ],
+  "0x431b8af326676bd170ed280f1463eb2edbbc4c3d": [
+    {
+      "character": "Bridget Troll",
+      "rarity": "uncommon",
+      "contract": "0x431b8af326676bd170ed280f1463eb2edbbc4c3d",
+      "image": "/data/topps/gpk/images/Bridget_Troll.webp",
+      "slug": "bridget-troll",
+      "set": "2022 Topps GPK Non-Flushable Tokens Challenge Rewards",
+      "total_minted": 75
+    }
+  ],
+  "0xdaa37ea007f3d1db0c3d195fa070742f18e9e21f": [
+    {
+      "character": "Bridget Troll",
+      "rarity": "super rare",
+      "contract": "0xdaa37ea007f3d1db0c3d195fa070742f18e9e21f",
+      "image": "/data/topps/gpk/images/Bridget_Troll.webp",
+      "slug": "bridget-troll",
+      "set": "2022 Topps GPK Non-Flushable Tokens Challenge Rewards",
+      "total_minted": 25
+    }
+  ],
+  "0xe8e505f5a0f1d69803cd94f7f96b51db5fed483f": [
+    {
+      "character": "Bridget Troll",
+      "rarity": "legendary",
+      "contract": "0xe8e505f5a0f1d69803cd94f7f96b51db5fed483f",
+      "image": "/data/topps/gpk/images/Bridget_Troll.webp",
+      "slug": "bridget-troll",
+      "set": "2022 Topps GPK Non-Flushable Tokens Challenge Rewards",
+      "total_minted": 5
+    }
+  ],
+  "0x59219b74bbf41c4befef2606792bfc08f1fa4e61": [
+    {
+      "character": "Crystal Winter",
+      "rarity": "uncommon",
+      "contract": "0x59219b74bbf41c4befef2606792bfc08f1fa4e61",
+      "image": "/data/topps/gpk/images/Crystal_Winter.webp",
+      "slug": "crystal-winter",
+      "set": "2022 Topps GPK Non-Flushable Tokens Challenge Rewards",
+      "total_minted": 75
+    }
+  ],
+  "0x3c418c549bd4694a70d491706b492e9d9d553ddf": [
+    {
+      "character": "Crystal Winter",
+      "rarity": "super rare",
+      "contract": "0x3c418c549bd4694a70d491706b492e9d9d553ddf",
+      "image": "/data/topps/gpk/images/Crystal_Winter.webp",
+      "slug": "crystal-winter",
+      "set": "2022 Topps GPK Non-Flushable Tokens Challenge Rewards",
+      "total_minted": 25
+    }
+  ],
+  "0x13578746be0d0f8749043b61493a096bf3873c09": [
+    {
+      "character": "Crystal Winter",
+      "rarity": "legendary",
+      "contract": "0x13578746be0d0f8749043b61493a096bf3873c09",
+      "image": "/data/topps/gpk/images/Crystal_Winter.webp",
+      "slug": "crystal-winter",
+      "set": "2022 Topps GPK Non-Flushable Tokens Challenge Rewards",
+      "total_minted": 5
+    }
+  ],
+  "0x5f24cf4c1d3dc0de436746b405f3b76fd62a2ee6": [
+    {
+      "character": "Sproutcoin Spring",
+      "rarity": "uncommon",
+      "contract": "0x5f24cf4c1d3dc0de436746b405f3b76fd62a2ee6",
+      "image": "/data/topps/gpk/images/Sproutcoin_Spring.webp",
+      "slug": "sproutcoin-spring",
+      "set": "2022 Topps GPK Non-Flushable Tokens Challenge Rewards",
+      "total_minted": 75
+    }
+  ],
+  "0xcdd301ca0730f1293987dba92c298289fda6efe4": [
+    {
+      "character": "Sproutcoin Spring",
+      "rarity": "super rare",
+      "contract": "0xcdd301ca0730f1293987dba92c298289fda6efe4",
+      "image": "/data/topps/gpk/images/Sproutcoin_Spring.webp",
+      "slug": "sproutcoin-spring",
+      "set": "2022 Topps GPK Non-Flushable Tokens Challenge Rewards",
+      "total_minted": 25
+    }
+  ],
+  "0xd6b552804a868bf87aa4a0203271cab6ef7cad72": [
+    {
+      "character": "Sproutcoin Spring",
+      "rarity": "legendary",
+      "contract": "0xd6b552804a868bf87aa4a0203271cab6ef7cad72",
+      "image": "/data/topps/gpk/images/Sproutcoin_Spring.webp",
+      "slug": "sproutcoin-spring",
+      "set": "2022 Topps GPK Non-Flushable Tokens Challenge Rewards",
+      "total_minted": 5
+    }
+  ],
+  "0x67c44e4e13c66d404b72ac6d545e995cb9d06866": [
+    {
+      "character": "Hot Coin Summer",
+      "rarity": "uncommon",
+      "contract": "0x67c44e4e13c66d404b72ac6d545e995cb9d06866",
+      "image": "/data/topps/gpk/images/Hot_Coin_Summer.webp",
+      "slug": "hot-coin-summer",
+      "set": "2022 Topps GPK Non-Flushable Tokens Challenge Rewards",
+      "total_minted": 75
+    }
+  ],
+  "0x381909182cf487b9cbbfbdfb7b7286f7bdbc13b8": [
+    {
+      "character": "Hot Coin Summer",
+      "rarity": "super rare",
+      "contract": "0x381909182cf487b9cbbfbdfb7b7286f7bdbc13b8",
+      "image": "/data/topps/gpk/images/Hot_Coin_Summer.webp",
+      "slug": "hot-coin-summer",
+      "set": "2022 Topps GPK Non-Flushable Tokens Challenge Rewards",
+      "total_minted": 25
+    }
+  ],
+  "0x973b7e76f555aa2ac4b50bae28d38234864b522a": [
+    {
+      "character": "Hot Coin Summer",
+      "rarity": "legendary",
+      "contract": "0x973b7e76f555aa2ac4b50bae28d38234864b522a",
+      "image": "/data/topps/gpk/images/Hot_Coin_Summer.webp",
+      "slug": "hot-coin-summer",
+      "set": "2022 Topps GPK Non-Flushable Tokens Challenge Rewards",
+      "total_minted": 5
+    }
+  ],
+  "0x4feb9e1be279c3771e7281442a781c1bdabafc69": [
+    {
+      "character": "Faith Fall",
+      "rarity": "uncommon",
+      "contract": "0x4feb9e1be279c3771e7281442a781c1bdabafc69",
+      "image": "/data/topps/gpk/images/Faith_Fall.webp",
+      "slug": "faith-fall",
+      "set": "2022 Topps GPK Non-Flushable Tokens Challenge Rewards",
+      "total_minted": 75
+    }
+  ],
+  "0x97bea0743080dcb63ad7a349ea0e6fdb8bd76a53": [
+    {
+      "character": "Faith Fall",
+      "rarity": "super rare",
+      "contract": "0x97bea0743080dcb63ad7a349ea0e6fdb8bd76a53",
+      "image": "/data/topps/gpk/images/Faith_Fall.webp",
+      "slug": "faith-fall",
+      "set": "2022 Topps GPK Non-Flushable Tokens Challenge Rewards",
+      "total_minted": 25
+    }
+  ],
+  "0xebcf7b0b180611fc5d4399ac2bbae3c02fe40871": [
+    {
+      "character": "Faith Fall",
+      "rarity": "legendary",
+      "contract": "0xebcf7b0b180611fc5d4399ac2bbae3c02fe40871",
+      "image": "/data/topps/gpk/images/Faith_Fall.webp",
+      "slug": "faith-fall",
+      "set": "2022 Topps GPK Non-Flushable Tokens Challenge Rewards",
+      "total_minted": 5
+    }
+  ],
+  "0xacca802e338a648d9c55a24952e508a752285005": [
+    {
+      "character": "Bored Adam Yuck Club",
+      "rarity": "uncommon",
+      "contract": "0xacca802e338a648d9c55a24952e508a752285005",
+      "image": "/data/topps/gpk/images/Bored_Adam_Yuck_Club.webp",
+      "slug": "bored-adam-yuck-club",
+      "set": "2022 Topps GPK Non-Flushable Tokens Challenge Rewards",
+      "total_minted": 75
+    }
+  ],
+  "0x822c463ea40e8390ffa5c0e562bc4fa467cd1c7b": [
+    {
+      "character": "Bored Adam Yuck Club",
+      "rarity": "super rare",
+      "contract": "0x822c463ea40e8390ffa5c0e562bc4fa467cd1c7b",
+      "image": "/data/topps/gpk/images/Bored_Adam_Yuck_Club.webp",
+      "slug": "bored-adam-yuck-club",
+      "set": "2022 Topps GPK Non-Flushable Tokens Challenge Rewards",
+      "total_minted": 25
+    }
+  ],
+  "0xca454c0b0de74370c12102ba8f212bb589d913b0": [
+    {
+      "character": "Bored Adam Yuck Club",
+      "rarity": "legendary",
+      "contract": "0xca454c0b0de74370c12102ba8f212bb589d913b0",
+      "image": "/data/topps/gpk/images/Bored_Adam_Yuck_Club.webp",
+      "slug": "bored-adam-yuck-club",
+      "set": "2022 Topps GPK Non-Flushable Tokens Challenge Rewards",
+      "total_minted": 5
+    }
+  ],
+  "0x19c5f3fef65f26f7afe1e3eb9f4aa54d94cf6489": [
+    {
+      "character": "Vee Fiend",
+      "rarity": "uncommon",
+      "contract": "0x19c5f3fef65f26f7afe1e3eb9f4aa54d94cf6489",
+      "image": "/data/topps/gpk/images/Vee_Fiend.webp",
+      "slug": "vee-fiend",
+      "set": "2022 Topps GPK Non-Flushable Tokens Challenge Rewards",
+      "total_minted": 75
+    }
+  ],
+  "0xe07134494994374896c94590c0dbf1cce82262dc": [
+    {
+      "character": "Vee Fiend",
+      "rarity": "super rare",
+      "contract": "0xe07134494994374896c94590c0dbf1cce82262dc",
+      "image": "/data/topps/gpk/images/Vee_Fiend.webp",
+      "slug": "vee-fiend",
+      "set": "2022 Topps GPK Non-Flushable Tokens Challenge Rewards",
+      "total_minted": 25
+    }
+  ],
+  "0x2f30f6ea84b6556ed11cb707bb1dac7e70bf7668": [
+    {
+      "character": "Vee Fiend",
+      "rarity": "legendary",
+      "contract": "0x2f30f6ea84b6556ed11cb707bb1dac7e70bf7668",
+      "image": "/data/topps/gpk/images/Vee_Fiend.webp",
+      "slug": "vee-fiend",
+      "set": "2022 Topps GPK Non-Flushable Tokens Challenge Rewards",
+      "total_minted": 5
+    }
+  ],
+  "0xed313cef732d00879ac483914ee28f08a9928370": [
+    {
+      "character": "Cobalt CAThy",
+      "rarity": "uncommon",
+      "contract": "0xed313cef732d00879ac483914ee28f08a9928370",
+      "image": "/data/topps/gpk/images/Cobalt_CAThy.webp",
+      "slug": "cobalt-cathy",
+      "set": "2022 Topps GPK Non-Flushable Tokens Challenge Rewards",
+      "total_minted": 75
+    }
+  ],
+  "0x0c21c22fe01603acf51d24992c48620233ee5a27": [
+    {
+      "character": "Cobalt CAThy",
+      "rarity": "super rare",
+      "contract": "0x0c21c22fe01603acf51d24992c48620233ee5a27",
+      "image": "/data/topps/gpk/images/Cobalt_CAThy.webp",
+      "slug": "cobalt-cathy",
+      "set": "2022 Topps GPK Non-Flushable Tokens Challenge Rewards",
+      "total_minted": 25
+    }
+  ],
+  "0x1de6799c166497d5eb1bf410b3557bc13c148904": [
+    {
+      "character": "Cobalt CAThy",
+      "rarity": "legendary",
+      "contract": "0x1de6799c166497d5eb1bf410b3557bc13c148904",
+      "image": "/data/topps/gpk/images/Cobalt_CAThy.webp",
+      "slug": "cobalt-cathy",
+      "set": "2022 Topps GPK Non-Flushable Tokens Challenge Rewards",
+      "total_minted": 5
+    }
+  ],
+  "0xde6b75437bcce9e6feabfd8894d0b6becafcb10a": [
+    {
+      "character": "Gemini Gene",
+      "rarity": "uncommon",
+      "contract": "0xde6b75437bcce9e6feabfd8894d0b6becafcb10a",
+      "image": "/data/topps/gpk/images/Gemini_Gene.webp",
+      "slug": "gemini-gene",
+      "set": "2022 Topps GPK Non-Flushable Tokens Challenge Rewards",
+      "total_minted": 75
+    }
+  ],
+  "0x261c833ee504693d0095fdab618180a837cf5984": [
+    {
+      "character": "Gemini Gene",
+      "rarity": "legendary",
+      "contract": "0x261c833ee504693d0095fdab618180a837cf5984",
+      "image": "/data/topps/gpk/images/Gemini_Gene.webp",
+      "slug": "gemini-gene",
+      "set": "2022 Topps GPK Non-Flushable Tokens Challenge Rewards",
+      "total_minted": 5
+    }
+  ],
+  "0xafa0b1c05ad0c71a5f4434c8aa725ff554181d3e": [
+    {
+      "character": "Hodor the HODLer",
+      "rarity": "uncommon",
+      "contract": "0xafa0b1c05ad0c71a5f4434c8aa725ff554181d3e",
+      "image": "/data/topps/gpk/images/Hodor_the_HODLer.webp",
+      "slug": "hodor-the-hodler",
+      "set": "2022 Topps GPK Non-Flushable Tokens Challenge Rewards",
+      "total_minted": 75
+    }
+  ],
+  "0x892f43c6a2c829c57d2a519d20f89620c39478b1": [
+    {
+      "character": "Hodor the HODLer",
+      "rarity": "super rare",
+      "contract": "0x892f43c6a2c829c57d2a519d20f89620c39478b1",
+      "image": "/data/topps/gpk/images/Hodor_the_HODLer.webp",
+      "slug": "hodor-the-hodler",
+      "set": "2022 Topps GPK Non-Flushable Tokens Challenge Rewards",
+      "total_minted": 25
+    }
+  ],
+  "0x12285ee4aa952d343753229a8973f83742a7e8ec": [
+    {
+      "character": "Hodor the HODLer",
+      "rarity": "legendary",
+      "contract": "0x12285ee4aa952d343753229a8973f83742a7e8ec",
+      "image": "/data/topps/gpk/images/Hodor_the_HODLer.webp",
+      "slug": "hodor-the-hodler",
+      "set": "2022 Topps GPK Non-Flushable Tokens Challenge Rewards",
+      "total_minted": 5
+    }
+  ],
+  "0x7840a929b480be33dd8e0a95b6ed0f5d1668624c": [
+    {
+      "character": "Gassie Infinity",
+      "rarity": "uncommon",
+      "contract": "0x7840a929b480be33dd8e0a95b6ed0f5d1668624c",
+      "image": "/data/topps/gpk/images/Gassie_Infinity.webp",
+      "slug": "gassie-infinity",
+      "set": "2022 Topps GPK Non-Flushable Tokens Challenge Rewards",
+      "total_minted": 75
+    }
+  ],
+  "0x3393f5c125fdf6036e0b86d9c06a9b4774f828a6": [
+    {
+      "character": "Gassie Infinity",
+      "rarity": "super rare",
+      "contract": "0x3393f5c125fdf6036e0b86d9c06a9b4774f828a6",
+      "image": "/data/topps/gpk/images/Gassie_Infinity.webp",
+      "slug": "gassie-infinity",
+      "set": "2022 Topps GPK Non-Flushable Tokens Challenge Rewards",
+      "total_minted": 25
+    }
+  ],
+  "0x42a520211855aa0a39853984fc5c61f14e323ccd": [
+    {
+      "character": "Gassie Infinity",
+      "rarity": "legendary",
+      "contract": "0x42a520211855aa0a39853984fc5c61f14e323ccd",
+      "image": "/data/topps/gpk/images/Gassie_Infinity.webp",
+      "slug": "gassie-infinity",
+      "set": "2022 Topps GPK Non-Flushable Tokens Challenge Rewards",
+      "total_minted": 5
+    }
+  ],
+  "0x6e9499d57565e57f4df1262553bb14654ece3755": [
+    {
+      "character": "Eye Candy Digital",
+      "rarity": "uncommon",
+      "contract": "0x6e9499d57565e57f4df1262553bb14654ece3755",
+      "image": "/data/topps/gpk/images/Eye_Candy_Digital.webp",
+      "slug": "eye-candy-digital",
+      "set": "2022 Topps GPK Non-Flushable Tokens Challenge Rewards",
+      "total_minted": 75
+    }
+  ],
+  "0x0b0640eb655cf1320365f5db24c2ba70a6c8198f": [
+    {
+      "character": "Eye Candy Digital",
+      "rarity": "super rare",
+      "contract": "0x0b0640eb655cf1320365f5db24c2ba70a6c8198f",
+      "image": "/data/topps/gpk/images/Eye_Candy_Digital.webp",
+      "slug": "eye-candy-digital",
+      "set": "2022 Topps GPK Non-Flushable Tokens Challenge Rewards",
+      "total_minted": 25
+    }
+  ],
+  "0xb0aa858fd3c502e6e1b043c900f90c2692e1ded3": [
+    {
+      "character": "Eye Candy Digital",
+      "rarity": "legendary",
+      "contract": "0xb0aa858fd3c502e6e1b043c900f90c2692e1ded3",
+      "image": "/data/topps/gpk/images/Eye_Candy_Digital.webp",
+      "slug": "eye-candy-digital",
+      "set": "2022 Topps GPK Non-Flushable Tokens Challenge Rewards",
+      "total_minted": 5
+    }
+  ],
+  "0xa94ff541975665eb24a39463a850c16df297c83a": [
+    {
+      "character": "WAXy William",
+      "rarity": "uncommon",
+      "contract": "0xa94ff541975665eb24a39463a850c16df297c83a",
+      "image": "/data/topps/gpk/images/WAXy_William.webp",
+      "slug": "waxy-william",
+      "set": "2022 Topps GPK Non-Flushable Tokens Challenge Rewards",
+      "total_minted": 75
+    }
+  ],
+  "0x8cd6ea50b0b6d16b0b8c692616267373abe05c18": [
+    {
+      "character": "WAXy William",
+      "rarity": "super rare",
+      "contract": "0x8cd6ea50b0b6d16b0b8c692616267373abe05c18",
+      "image": "/data/topps/gpk/images/WAXy_William.webp",
+      "slug": "waxy-william",
+      "set": "2022 Topps GPK Non-Flushable Tokens Challenge Rewards",
+      "total_minted": 25
+    }
+  ],
+  "0xd4b35c801947c2dd81041ecb64ba0a45d1aaa516": [
+    {
+      "character": "WAXy William",
+      "rarity": "legendary",
+      "contract": "0xd4b35c801947c2dd81041ecb64ba0a45d1aaa516",
+      "image": "/data/topps/gpk/images/WAXy_William.webp",
+      "slug": "waxy-william",
+      "set": "2022 Topps GPK Non-Flushable Tokens Challenge Rewards",
+      "total_minted": 5
+    }
+  ],
+  "0xac05247c19943d45c6eb4b4f2f97e2ec1fb8e17a": [
+    {
+      "character": "AVA Lamp",
+      "rarity": "uncommon",
+      "contract": "0xac05247c19943d45c6eb4b4f2f97e2ec1fb8e17a",
+      "image": "/data/topps/gpk/images/AVA_Lamp.webp",
+      "slug": "ava-lamp",
+      "set": "2022 Topps GPK Non-Flushable Tokens Challenge Rewards",
+      "total_minted": 75
+    }
+  ],
+  "0x8347cbbbb325cedfefcc363ef02cb9d03706dea0": [
+    {
+      "character": "AVA Lamp",
+      "rarity": "super rare",
+      "contract": "0x8347cbbbb325cedfefcc363ef02cb9d03706dea0",
+      "image": "/data/topps/gpk/images/AVA_Lamp.webp",
+      "slug": "ava-lamp",
+      "set": "2022 Topps GPK Non-Flushable Tokens Challenge Rewards",
+      "total_minted": 25
+    }
+  ],
+  "0x37cb4596f2df23a8bf100958bd9fa70943fe1e44": [
+    {
+      "character": "AVA Lamp",
+      "rarity": "legendary",
+      "contract": "0x37cb4596f2df23a8bf100958bd9fa70943fe1e44",
+      "image": "/data/topps/gpk/images/AVA_Lamp.webp",
+      "slug": "ava-lamp",
+      "set": "2022 Topps GPK Non-Flushable Tokens Challenge Rewards",
+      "total_minted": 5
+    }
+  ],
+  "0x261fae36d0bfa13c912bb9a7d0d60b32e1d24088": [
+    {
+      "character": "Developer Dale",
+      "rarity": "uncommon",
+      "contract": "0x261fae36d0bfa13c912bb9a7d0d60b32e1d24088",
+      "image": "/data/topps/gpk/images/Developer_Dale.webp",
+      "slug": "developer-dale",
+      "set": "2022 Topps GPK Non-Flushable Tokens Challenge Rewards",
+      "total_minted": 75
+    }
+  ],
+  "0x3bbde58faaf8106169bdf000f8bf8e7d5374a2b9": [
+    {
+      "character": "Developer Dale",
+      "rarity": "super rare",
+      "contract": "0x3bbde58faaf8106169bdf000f8bf8e7d5374a2b9",
+      "image": "/data/topps/gpk/images/Developer_Dale.webp",
+      "slug": "developer-dale",
+      "set": "2022 Topps GPK Non-Flushable Tokens Challenge Rewards",
+      "total_minted": 25
+    }
+  ],
+  "0x5b812af6633569f0c1d241b132e2cdd1ee64ac9a": [
+    {
+      "character": "Developer Dale",
+      "rarity": "legendary",
+      "contract": "0x5b812af6633569f0c1d241b132e2cdd1ee64ac9a",
+      "image": "/data/topps/gpk/images/Developer_Dale.webp",
+      "slug": "developer-dale",
+      "set": "2022 Topps GPK Non-Flushable Tokens Challenge Rewards",
+      "total_minted": 5
+    }
+  ],
+  "0xe63bafb9526b11a1a64a9990e7a43a88490c177d": [
+    {
+      "character": "Paper Hans",
+      "rarity": "uncommon",
+      "contract": "0xe63bafb9526b11a1a64a9990e7a43a88490c177d",
+      "image": "/data/topps/gpk/images/Paper_Hans.webp",
+      "slug": "paper-hans",
+      "set": "2022 Topps GPK Non-Flushable Tokens Challenge Rewards",
+      "total_minted": 75
+    }
+  ],
+  "0x125693188ea0536bb73fb06bdac1dc1015ed49c3": [
+    {
+      "character": "Paper Hans",
+      "rarity": "super rare",
+      "contract": "0x125693188ea0536bb73fb06bdac1dc1015ed49c3",
+      "image": "/data/topps/gpk/images/Paper_Hans.webp",
+      "slug": "paper-hans",
+      "set": "2022 Topps GPK Non-Flushable Tokens Challenge Rewards",
+      "total_minted": 25
+    }
+  ],
+  "0x74fd9c7603ab7467ba39b71afd9b8ea635b20b16": [
+    {
+      "character": "Paper Hans",
+      "rarity": "legendary",
+      "contract": "0x74fd9c7603ab7467ba39b71afd9b8ea635b20b16",
+      "image": "/data/topps/gpk/images/Paper_Hans.webp",
+      "slug": "paper-hans",
+      "set": "2022 Topps GPK Non-Flushable Tokens Challenge Rewards",
+      "total_minted": 5
+    }
+  ],
+  "0xdc18a6dcfa68607bf110e6f709ed9b085468080e": [
+    {
+      "character": "Diamond Hans",
+      "rarity": "uncommon",
+      "contract": "0xdc18a6dcfa68607bf110e6f709ed9b085468080e",
+      "image": "/data/topps/gpk/images/Diamond_Hans.webp",
+      "slug": "diamond-hans",
+      "set": "2022 Topps GPK Non-Flushable Tokens Challenge Rewards",
+      "total_minted": 75
+    }
+  ],
+  "0xfa97198856dc03529c2eb9a7d614b86716473582": [
+    {
+      "character": "Diamond Hans",
+      "rarity": "super rare",
+      "contract": "0xfa97198856dc03529c2eb9a7d614b86716473582",
+      "image": "/data/topps/gpk/images/Diamond_Hans.webp",
+      "slug": "diamond-hans",
+      "set": "2022 Topps GPK Non-Flushable Tokens Challenge Rewards",
+      "total_minted": 25
+    }
+  ],
+  "0xdd97d4b91d02368fdc96ba8145fd2c0d204df433": [
+    {
+      "character": "Diamond Hans",
+      "rarity": "legendary",
+      "contract": "0xdd97d4b91d02368fdc96ba8145fd2c0d204df433",
+      "image": "/data/topps/gpk/images/Diamond_Hans.webp",
+      "slug": "diamond-hans",
+      "set": "2022 Topps GPK Non-Flushable Tokens Challenge Rewards",
+      "total_minted": 5
+    }
+  ],
+  "0x8625e4f4d22db789ff9d953448f6fb435042ff54": [
+    {
+      "character": "Burning Bennie",
+      "rarity": "uncommon",
+      "contract": "0x8625e4f4d22db789ff9d953448f6fb435042ff54",
+      "image": "/data/topps/gpk/images/Burning_Bennie.webp",
+      "slug": "burning-bennie",
+      "set": "2022 Topps GPK Non-Flushable Tokens Challenge Rewards",
+      "total_minted": 75
+    }
+  ],
+  "0x641b6fb7730d4f20523af84485e3e229b0c0dced": [
+    {
+      "character": "Burning Bennie",
+      "rarity": "super rare",
+      "contract": "0x641b6fb7730d4f20523af84485e3e229b0c0dced",
+      "image": "/data/topps/gpk/images/Burning_Bennie.webp",
+      "slug": "burning-bennie",
+      "set": "2022 Topps GPK Non-Flushable Tokens Challenge Rewards",
+      "total_minted": 25
+    }
+  ],
+  "0xebce23d3348c2109c1b8b0c5da46f492c94d208b": [
+    {
+      "character": "Burning Bennie",
+      "rarity": "legendary",
+      "contract": "0xebce23d3348c2109c1b8b0c5da46f492c94d208b",
+      "image": "/data/topps/gpk/images/Burning_Bennie.webp",
+      "slug": "burning-bennie",
+      "set": "2022 Topps GPK Non-Flushable Tokens Challenge Rewards",
+      "total_minted": 5
+    }
+  ],
+  "0x8a06f603ad0b5fc39aba6a5b13c23c734957ba1b": [
+    {
+      "character": "Proof-of-Steak",
+      "rarity": "uncommon",
+      "contract": "0x8a06f603ad0b5fc39aba6a5b13c23c734957ba1b",
+      "image": "/data/topps/gpk/images/Proof-of-Steak.webp",
+      "slug": "proof-of-steak",
+      "set": "2022 Topps GPK Non-Flushable Tokens Challenge Rewards",
+      "total_minted": 75
+    }
+  ],
+  "0x1289cd7fc0fb1e15bcb5d2dda91202460170b42b": [
+    {
+      "character": "Proof-of-Steak",
+      "rarity": "super rare",
+      "contract": "0x1289cd7fc0fb1e15bcb5d2dda91202460170b42b",
+      "image": "/data/topps/gpk/images/Proof-of-Steak.webp",
+      "slug": "proof-of-steak",
+      "set": "2022 Topps GPK Non-Flushable Tokens Challenge Rewards",
+      "total_minted": 25
+    }
+  ],
+  "0x2a2265d99f0be5ab41a1f2ec2eaba17693997237": [
+    {
+      "character": "Proof-of-Steak",
+      "rarity": "legendary",
+      "contract": "0x2a2265d99f0be5ab41a1f2ec2eaba17693997237",
+      "image": "/data/topps/gpk/images/Proof-of-Steak.webp",
+      "slug": "proof-of-steak",
+      "set": "2022 Topps GPK Non-Flushable Tokens Challenge Rewards",
+      "total_minted": 5
+    }
+  ]
+}
