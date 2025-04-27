@@ -165,17 +165,17 @@ function ChecklistDisplay({ checklist, slugMap }: { checklist: NFTEntry[], slugM
                   <div className="flex gap-2 mt-2">
                     <Link href={openSeaURL} target="_blank">
                       <Button variant="secondary">
-                        <Ship size={24} className="mr-2" /> OpenSea
+                        <Ship size={24} className="mr-2" /> OS
                       </Button>
                     </Link>
                     <Link href={magicEdenURL} target="_blank">
                       <Button variant="secondary">
-                        <Wand2 size={24} className="mr-2" /> Magic Eden
+                        <Wand2 size={24} className="mr-2" /> ME
                       </Button>
                     </Link>
                     <Link href={`https://polygonscan.com/address/${nft['Contract Address']}`} target="_blank">
                       <Button variant="secondary">
-                        <LinkIcon size={24} className="mr-2" /> PolygonScan
+                        <LinkIcon size={24} className="mr-2" /> PS
                       </Button>
                     </Link>
                   </div>
