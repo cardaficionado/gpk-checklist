@@ -48,7 +48,24 @@ export default function HomePage() {
             {/* Attribution Section */}
             <div className="mt-16 text-s text-gray-500 text-center max-w-md border-t border-gray-700 pt-4">
                 <p className="mb-2">
-                    Inception images based on original Topps material. Polygon migration contracts by ToppsNFT.
+                    Checklist and images for 2021 Topps MLB Inception adapted with thanks to{" "}
+                    <a
+                        href="https://x.com/lifofifo"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="underline hover:text-white"
+                    >
+                        @lifofifo
+                    </a>{" "}
+                    and{" "}
+                    <a
+                        href="https://mlbinception.netlify.app/"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="underline hover:text-white"
+                    >
+                        mlbinception.netlify.app
+                    </a>. Originally created for the Avalanche blockchain version of Topps NFTs.
                 </p>
                 <p>
                     View project on{" "}
