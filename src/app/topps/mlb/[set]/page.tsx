@@ -2,9 +2,7 @@
 
 import { useEffect, useState } from "react";
 import { notFound } from "next/navigation";
-import toppsSetList from "@/../public/data/topps/topps-setlist.json"; // Static import for setlist
-import checklistData from "@/../public/data/topps/mlb/2021-topps-mlb-inception/grouped_by_set_inception_flattened.json"; // Static import
-import slugData from "@/../public/data/topps/mlb/2021-topps-mlb-inception/contract_to_slug.json"; // Static import
+//import toppsSetList from "@/../public/data/topps/topps-setlist.json"; // Static import for setlist
 import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
 import Link from "next/link";
@@ -28,20 +26,48 @@ const rarityColors: Record<string, string> = {
 
 export default function ChecklistPage({ params }: { params: { set: string } }) {
   const [matchingSet, setMatchingSet] = useState<any>(null);
+  const [checklistData, setChecklistData] = useState<NFTEntry[]>([]);
+  const [slugData, setSlugData] = useState<Record<string, string>>({});
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
+    if (!params?.set) {
+      console.error("Missing params.set");
+      return;
+    }
+
+    const set = params.set;
+
     const fetchSet = async () => {
-      const { set } = await params;
+      try {
+        // Fetch the set list dynamically
+        const setListRes = await fetch("/data/topps/topps-setlist.json");
+        const setListJson = await setListRes.json();
 
-      const matchingSet = toppsSetList.find(
-        (s) => slugify(s.set_name) === set
-      );
+        const matchingSet = setListJson.find(
+          (s: any) => slugify(s.set_name) === set
+        );
 
-      if (matchingSet) {
+        if (!matchingSet) {
+          console.error("Set not found:", set);
+          notFound();
+          return;
+        }
+
+        // Fetch checklist data
+        const checklistRes = await fetch("/data/topps/mlb/2021-topps-mlb-inception/grouped_by_set_inception_flattened.json");
+        const checklistJson = await checklistRes.json();
+
+        // Fetch slug data
+        const slugRes = await fetch("/data/topps/mlb/2021-topps-mlb-inception/contract_to_slug.json");
+        const slugJson = await slugRes.json();
+
+        setChecklistData(checklistJson);
+        setSlugData(slugJson);
         setMatchingSet(matchingSet);
         setLoading(false);
-      } else {
+      } catch (error) {
+        console.error("Failed to fetch checklist or slug data:", error);
         notFound();
       }
     };
@@ -49,7 +75,9 @@ export default function ChecklistPage({ params }: { params: { set: string } }) {
     fetchSet();
   }, [params]);
 
-  if (loading) return <div>Loading...</div>;
+  if (loading || !matchingSet || checklistData.length === 0 || Object.keys(slugData).length === 0) {
+    return <div>Loading...</div>;
+  }
 
   return (
     <div className="p-8">
@@ -61,7 +89,9 @@ export default function ChecklistPage({ params }: { params: { set: string } }) {
           <Button variant="secondary">Back to Home</Button>
         </Link>
       </div>
-      <ChecklistDisplay checklist={checklistData} slugMap={slugData} />
+      {!loading && (
+        <ChecklistDisplay checklist={checklistData} slugMap={slugData} />
+      )}
     </div>
   );
 }
