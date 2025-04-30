@@ -19,17 +19,30 @@ export default function HomePage() {
                 <Link href="/topps/gpk/checklist" className="group">
                     <img
                         src="/data/topps/gpk/IMG_2427.webp"
-                        alt="GPK Checklist"
+                        alt="GPK Checklist Grid View"
                         className="w-64 md:w-72 rounded-2xl shadow-lg transition-transform duration-300 group-hover:scale-105"
                     />
                 </Link>
-                <Link href="/topps/mlb/2021-topps-mlb-inception" className="group">
+                <Link href="/topps/mlb/2021-topps-mlb-inception/grid" className="group">
                     <img
                         src="/data/topps/mlb/2021-topps-mlb-inception/Inception_premium_Front_01.png"
-                        alt="Inception Checklist"
+                        alt="Inception Checklist Grid View"
                         className="w-64 md:w-72 rounded-2xl shadow-lg transition-transform duration-300 group-hover:scale-105"
                     />
                 </Link>
+            </div>
+
+            {/* Secondary MLB Links */}
+            <div className="flex flex-col items-center gap-4 mb-16">
+                <h2 className="text-2xl font-bold mb-4 text-center">More 2021 MLB Inception Pages</h2>
+                <div className="flex flex-wrap justify-center gap-4">
+                    <Link href="/topps/mlb/2021-topps-mlb-inception" className="px-6 py-3 bg-white text-black font-semibold rounded-full shadow hover:bg-gray-200 transition">
+                        Players View
+                    </Link>
+                    <Link href="/topps/mlb/2021-topps-mlb-inception/sales" className="px-6 py-3 bg-white text-black font-semibold rounded-full shadow hover:bg-gray-200 transition">
+                        Recent Sales
+                    </Link>
+                </div>
             </div>
 
             {/* Secondary GPK Links */}
@@ -68,7 +81,7 @@ export default function HomePage() {
                     </a>. Originally created for the Avalanche blockchain version of Topps NFTs.
                 </p>
                 <p>
-                    View project on{" "}
+                    Conceived and refined by neurons. Built by ChatGPT. View project on{" "}
                     <a
                         href="https://github.com/cardaficionado/toppsnft-checklists"
                         target="_blank"
@@ -77,15 +90,6 @@ export default function HomePage() {
                     >
                         GitHub
                     </a>{" "}
-                    or visit the{" "}
-                    <a
-                        href="https://toppsnft-checklists.vercel.app/"
-                        target="_blank"
-                        rel="noopener noreferrer"
-                        className="underline hover:text-white"
-                    >
-                        main site
-                    </a>.
                 </p>
             </div>
         </div>
