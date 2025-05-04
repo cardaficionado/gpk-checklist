@@ -34,13 +34,10 @@ export default function HomePage() {
 
             {/* Secondary MLB Links */}
             <div className="flex flex-col items-center gap-4 mb-16">
-                <h2 className="text-2xl font-bold mb-4 text-center">More 2021 MLB Inception Pages</h2>
+                <h2 className="text-2xl font-bold mb-4 text-center">More MLB Pages</h2>
                 <div className="flex flex-wrap justify-center gap-4">
                     <Link href="/topps/mlb/2021-topps-mlb-inception" className="px-6 py-3 bg-white text-black font-semibold rounded-full shadow hover:bg-gray-200 transition">
-                        Players View
-                    </Link>
-                    <Link href="/topps/mlb/2021-topps-mlb-inception/sales" className="px-6 py-3 bg-white text-black font-semibold rounded-full shadow hover:bg-gray-200 transition">
-                        Recent Sales
+                        2021 Inception Players View
                     </Link>
                 </div>
             </div>
@@ -51,9 +48,6 @@ export default function HomePage() {
                 <div className="flex flex-wrap justify-center gap-4">
                     <Link href="/topps/gpk/characters" className="px-6 py-3 bg-white text-black font-semibold rounded-full shadow hover:bg-gray-200 transition">
                         Characters View
-                    </Link>
-                    <Link href="/topps/gpk/sales" className="px-6 py-3 bg-white text-black font-semibold rounded-full shadow hover:bg-gray-200 transition">
-                        Recent Sales
                     </Link>
                 </div>
             </div>
